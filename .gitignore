@@ -48,7 +48,3 @@ __pycache__/
 # Local environments
 .venv/
 venv/
-
-# Ignore intermediate PDFs inside source directories
-# Keep finished PDFs in the repository root
-interpretation-and-its-overcoming-source/*.pdf

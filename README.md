@@ -1,10 +1,10 @@
 # Active Inference
 
-[](https://standardgalactic.github.io/active-inference/amortized-deliberation.pdf)
+[Amortized Deliberation](https://standardgalactic.github.io/active-inference/amortized-deliberation.pdf)
 
-[](https://standardgalactic.github.io/active-inference/closure-under-projection.pdf)
+[Closure Under Projection](https://standardgalactic.github.io/active-inference/closure-under-projection.pdf)
 
-[](https://standardgalactic.github.io/active-inference/interpretation-and-its-overcoming.pdf)
+[Interpretation and Its Overcoming](https://standardgalactic.github.io/active-inference/interpretation-and-its-overcoming.pdf)
 
 ![](closure-cover.png)
 
@@ -12,3 +12,8 @@
 
 ![](interpretation-cover.png)
 
+# Further Notes
+
+[Transcription Error and Causal Identifiability](causal-identifiability.md)
+
+[Generative Audio as Compression](generative-audio.md)
