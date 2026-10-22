@@ -1,0 +1,54 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.synctex.gz(busy)
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.dvi
+
+# Temporary and editor files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+
+process_audio.sh
+
+# Transcription correction backups and logs
+backup_*/
+corrections.log
+
+# Generated inventories
+file-list.txt
+
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local environments
+.venv/
+venv/
+
+# Ignore intermediate PDFs inside source directories
+# Keep finished PDFs in the repository root
+interpretation-and-its-overcoming-source/*.pdf

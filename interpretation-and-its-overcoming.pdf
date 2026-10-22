@@ -1,0 +1,110 @@
+\documentclass[12pt,a4paper]{book}
+
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage[expansion=false]{microtype}
+\usepackage{setspace}
+\usepackage[margin=1.25in]{geometry}
+\usepackage{titlesec}
+\usepackage[authoryear,round]{natbib}
+\usepackage[hidelinks]{hyperref}
+
+\onehalfspacing
+\emergencystretch=3em
+\pagestyle{plain}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{proposal}{Proposal}[chapter]
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}[chapter]
+
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\KL}{D_{\mathrm{KL}}}
+
+\title{Interpretation and Its Overcoming:\\[0.4em]
+\large Nietzsche, Active Inference, and the Organization of Experience}
+\author{Flyxion\\ \small Independent Researcher}
+\date{October 2026}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+
+\chapter*{Preface}
+
+This book compares two bodies of work that rarely meet. One is Nietzsche's treatment of interpretation as a condition of organized experience that life must nonetheless repeatedly overcome. The other is the family of theories, grouped under predictive processing and active inference, that explain perception, action and learning as the activity of a system maintaining an organized relation to its surroundings. The comparison is conducted through shared problems rather than claims of anticipation, and it keeps four kinds of claim apart: historical claims about what Nietzsche wrote, conceptual comparisons between his problems and those of contemporary modelling, mathematical reconstructions that are offered as proposals, and normative arguments about which transformations of interpretation are worth having.
+
+The mathematical sections are marked as reconstruction and are never presented as translation. Literary analysis is treated as evidence about what Nietzsche's writing does to a reader's expectations, and not as an illustration of a theory established elsewhere.
+
+\tableofcontents
+
+\mainmatter
+
+\input{intro}
+\input{part1}
+\input{part2}
+\input{part3}
+\input{part4}
+\input{part5}
+
+\appendix
+\chapter{Notation and Conventions}
+
+Throughout, $X$ denotes a detailed state space and $Z$ a space of distinctions available to an organism. Maps $\phi:X\to Z$ are called interpretive organizations. Objectives are written $F$ or $F_i$, and the symbol $\mathcal{M}$ is reserved for an admissible model family. Quotations and paraphrases of Nietzsche follow the English editions listed in the bibliography and are cited by section number where the work is divided into numbered sections, which allows readers to consult any edition. Passages of the compilation \emph{The Will to Power} are cited by its section numbers, and the critical edition of Colli and Montinari is the authority for their notebook dating.
+
+\input{appendices}
+
+\begin{thebibliography}{99}
+
+\bibitem[Ainsworth et~al.(1978)]{ainsworth1978} Ainsworth, M. D. S., Blehar, M. C., Waters, E., and Wall, S. (1978). \emph{Patterns of Attachment: A Psychological Study of the Strange Situation}. Lawrence Erlbaum.
+
+\bibitem[Bowlby(1969)]{bowlby1969} Bowlby, J. (1969). \emph{Attachment and Loss}, Vol.~1: Attachment. Basic Books.
+
+\bibitem[Clark(2016)]{clark2016} Clark, A. (2016). \emph{Surfing Uncertainty: Prediction, Action, and the Embodied Mind}. Oxford University Press.
+
+\bibitem[Friston et~al.(2017)]{friston2017} Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., and Pezzulo, G. (2017). Active inference: a process theory. \emph{Neural Computation}, 29, 1--49.
+
+\bibitem[Friston(2010)]{friston2010} Friston, K. (2010). The free-energy principle: a unified brain theory? \emph{Nature Reviews Neuroscience}, 11, 127--138.
+
+\bibitem[Ferrari(2026)]{ferrari} Ferrari, E. F. (2026). Beyond-Man and Relational Agency: A Reading of Zarathustra through Attachment Theory. PhilArchive preprint, archived 16 February 2026, \url{https://philarchive.org/archive/FERBAR-3}.
+
+\bibitem[Gadamer(1989)]{gadamer1989} Gadamer, H.-G. (1989). \emph{Truth and Method}. 2nd rev. ed., trans. J. Weinsheimer and D. G. Marshall. Continuum.
+
+\bibitem[Iser(1978)]{iser1978} Iser, W. (1978). \emph{The Act of Reading: A Theory of Aesthetic Response}. Johns Hopkins University Press.
+
+\bibitem[Mikulincer and Shaver(2007)]{mikulincer2007} Mikulincer, M., and Shaver, P. R. (2007). \emph{Attachment in Adulthood: Structure, Dynamics, and Change}. Guilford Press.
+
+\bibitem[Nehamas(1985)]{nehamas1985} Nehamas, A. (1985). \emph{Nietzsche: Life as Literature}. Harvard University Press.
+
+\bibitem[Rissanen(1978)]{rissanen1978} Rissanen, J. (1978). Modeling by shortest data description. \emph{Automatica}, 14, 465--471.
+
+\bibitem[Golub and Jackson(2010)]{golub2010} Golub, B., and Jackson, M. O. (2010). Naive learning in social networks and the wisdom of crowds. \emph{American Economic Journal: Microeconomics}, 2(1), 112--149.
+
+\bibitem[Hohwy(2013)]{hohwy2013} Hohwy, J. (2013). \emph{The Predictive Mind}. Oxford University Press.
+
+\bibitem[Nietzsche(1967a)]{kaufmann1967} Nietzsche, F. (1967). \emph{The Will to Power}. Trans. W. Kaufmann and R. J. Hollingdale. Random House.
+
+\bibitem[Montinari(1982)]{montinari1982} Montinari, M. (1982). \emph{Nietzsche Lesen}. De Gruyter.
+
+\bibitem[Nietzsche(1966)]{nietzsche1966} Nietzsche, F. (1966). \emph{Beyond Good and Evil}. Trans. W. Kaufmann. Vintage.
+
+\bibitem[Nietzsche(1967b)]{nietzsche1967gm} Nietzsche, F. (1967). \emph{On the Genealogy of Morals} and \emph{Ecce Homo}. Trans. W. Kaufmann and R. J. Hollingdale. Vintage.
+
+\bibitem[Nietzsche(1974)]{nietzsche1974} Nietzsche, F. (1974). \emph{The Gay Science}. Trans. W. Kaufmann. Vintage.
+
+\bibitem[Nietzsche(1979)]{nietzsche1979} Nietzsche, F. (1979). On truth and lies in a nonmoral sense. In \emph{Philosophy and Truth: Selections from Nietzsche's Notebooks of the Early 1870's}, ed. and trans. D. Breazeale. Humanities Press.
+
+\bibitem[Nietzsche(2006)]{nietzsche2006} Nietzsche, F. (2006). \emph{Thus Spoke Zarathustra}. Ed. A. Del Caro and R. Pippin, trans. A. Del Caro. Cambridge University Press.
+
+\bibitem[Parr et~al.(2022)]{parr2022} Parr, T., Pezzulo, G., and Friston, K. J. (2022). \emph{Active Inference: The Free Energy Principle in Mind, Brain, and Behavior}. MIT Press.
+
+\bibitem[Rao and Ballard(1999)]{rao1999} Rao, R. P. N., and Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. \emph{Nature Neuroscience}, 2, 79--87.
+
+\bibitem[Richardson(1996)]{richardson1996} Richardson, J. (1996). \emph{Nietzsche's System}. Oxford University Press.
+
+\end{thebibliography}
+
+\end{document}

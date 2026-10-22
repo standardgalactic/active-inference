@@ -1,0 +1,2999 @@
+WEBVTT
+
+00:00.000 --> 00:06.080
+I want you to just take a second and think about a task that feels, you know, completely automatic to you right now.
+
+00:06.160 --> 00:08.060
+Like something that takes zero effort.
+
+00:08.060 --> 00:13.940
+Exactly. Just put yourself in that mental space. Maybe it is driving a car on your standard morning commute.
+
+00:14.260 --> 00:15.120
+Oh yeah, we've all been there.
+
+00:15.300 --> 00:23.220
+Right. You have probably had that experience where you pull into your driveway and you suddenly realize you do not actually remember the last ten minutes of the drive.
+
+00:23.460 --> 00:25.000
+It's a little scary when that happens, honestly.
+
+00:25.080 --> 00:28.600
+It really is. Or think about tying your shoelaces in the morning.
+
+00:28.600 --> 00:32.360
+Or even just reading the words on a billboard as you pass by it on the highway.
+
+00:32.560 --> 00:34.300
+Yeah, you don't even have to try to read the billboard.
+
+00:34.500 --> 00:37.540
+No, your brain just absorbs the meaning of the letters instantly.
+
+00:37.800 --> 00:43.760
+It feels like the world is just, well, presenting itself to you pre-translated. Like there is zero friction.
+
+00:44.040 --> 00:45.700
+Zero friction. Exactly.
+
+00:46.340 --> 00:54.780
+But if you rewind the tape of your life far enough, every single one of those tasks used to require this immense, almost agonizing level of concentration.
+
+00:55.140 --> 00:55.640
+Oh, absolutely.
+
+00:55.640 --> 01:02.520
+Think about when you were a toddler. You used to have to consciously think about every single loop, swoop, and pull of those shoelaces.
+
+01:02.940 --> 01:03.860
+It was a major event.
+
+01:04.100 --> 01:11.940
+Yeah. You used to have to sound out every individual syllable on a street sign, just staring at the letters until they finally formed a recognizable sound.
+
+01:12.440 --> 01:15.660
+So, I mean, the ultimate question for cognitive science has always been,
+
+01:15.880 --> 01:21.840
+what actually changed inside your head between being that struggling toddler and the effortless adult you are today?
+
+01:21.840 --> 01:29.020
+And for years, I mean, decades, really, the most popular answer to that question has been the dual process theory of the mind.
+
+01:29.140 --> 01:29.380
+Right.
+
+01:29.620 --> 01:34.480
+Which is arguably the most successful psychological framework ever exported to the general public.
+
+01:34.480 --> 01:41.300
+It's this incredibly famous, ubiquitous idea that our brains operate using two fundamentally different systems.
+
+01:41.640 --> 01:42.880
+System one and system two.
+
+01:43.360 --> 01:43.720
+Exactly.
+
+01:44.080 --> 01:48.960
+We have a fast, automatic, intuitive system, which we universally call system one.
+
+01:49.420 --> 01:52.880
+And we have a slow, deliberate, analytical system, system two.
+
+01:52.880 --> 01:56.740
+And this vocabulary has completely saturated our culture.
+
+01:56.920 --> 01:57.400
+Oh, it's everywhere.
+
+01:57.800 --> 02:02.660
+You see it in psychology textbooks, of course, but it has completely escaped the lab.
+
+02:02.800 --> 02:06.240
+You see it in corporate business seminars about decision making.
+
+02:06.540 --> 02:06.660
+Right.
+
+02:06.900 --> 02:09.540
+You see it in the way we talk about artificial intelligence.
+
+02:10.140 --> 02:14.100
+You hear it at dinner parties when someone says, oh, my system one just took over.
+
+02:14.320 --> 02:15.600
+Yeah. People use it constantly.
+
+02:15.600 --> 02:25.160
+It was popularized most famously by Daniel Kahneman in the early 2000s, and it gives us this very neat, very binary way to categorize the human experience.
+
+02:25.700 --> 02:33.240
+It basically tells us we essentially have two different machines living inside our skulls, and they trade off depending on what the situation demands.
+
+02:33.580 --> 02:37.080
+And I think it's everywhere because it feels so phenomenally right intuitively.
+
+02:37.460 --> 02:38.220
+It really does.
+
+02:38.520 --> 02:42.240
+We all experience certain thoughts as these effortless flashes of insight.
+
+02:42.240 --> 02:48.020
+You know instantly that someone's face looks angry, or you instantly know that two plus two is four.
+
+02:48.560 --> 02:49.180
+Without even trying.
+
+02:49.480 --> 02:49.660
+Right.
+
+02:50.240 --> 02:55.480
+And then on the flip side, we all experience other thoughts as this hard, grinding mental labor.
+
+02:55.940 --> 02:59.940
+Like trying to park a rental car in a tight space in a foreign country?
+
+03:00.220 --> 03:00.500
+Yes.
+
+03:00.940 --> 03:03.460
+Or calculating 17 times 24 in your head.
+
+03:03.700 --> 03:03.980
+Ugh.
+
+03:04.300 --> 03:04.460
+Yeah.
+
+03:04.460 --> 03:14.720
+And because the subjective feeling of those two experiences is so drastically different, well, it is incredibly natural to assume they must be coming from two entirely different cognitive architectures.
+
+03:15.260 --> 03:15.500
+Okay.
+
+03:15.800 --> 03:16.620
+Let's unpack this.
+
+03:16.820 --> 03:21.440
+Because what if that entirely binary categorization is completely wrong?
+
+03:21.660 --> 03:22.780
+Which is a wild thought.
+
+03:22.980 --> 03:23.400
+It is.
+
+03:23.660 --> 03:28.660
+What if the idea of having a fast mind and a slow mind is just a massive scientific misunderstanding?
+
+03:29.300 --> 03:30.520
+And that brings us to today.
+
+03:30.860 --> 03:31.340
+Exactly.
+
+03:31.760 --> 03:33.620
+That is the mission of our deep dive today.
+
+03:33.620 --> 03:40.000
+We are looking at a truly fascinating 2026 paper by an independent researcher operating under the name Flyxion.
+
+03:40.640 --> 03:40.760
+Right.
+
+03:41.100 --> 03:46.020
+The paper is titled Amortized Deliberation, Practice, and the Dual Process Partition.
+
+03:46.980 --> 03:56.800
+Our objective today is to explore this researcher's deeply mathematical, highly rigorous argument that System 1 and System 2 do not actually exist as separate cognitive machines.
+
+03:56.960 --> 03:57.880
+They don't exist at all.
+
+03:57.880 --> 04:00.420
+The paper argues that they are total illusions.
+
+04:00.760 --> 04:03.860
+They are just mirages created by our own history of practice.
+
+04:04.240 --> 04:09.380
+And to really get into the mechanics of this, I see our audio-visual backdrop has shifted to reflect the theme.
+
+04:10.080 --> 04:10.420
+Oh.
+
+04:11.120 --> 04:11.920
+Yeah, it has.
+
+04:12.100 --> 04:13.900
+We are no longer looking at a cozy library.
+
+04:14.740 --> 04:18.900
+The walls have basically stripped away to reveal a very minimalist, stark laboratory setting.
+
+04:18.900 --> 04:20.080
+It's very clean.
+
+04:20.280 --> 04:20.780
+Very clean.
+
+04:21.180 --> 04:27.440
+And the air around us is filled with these evolving, glowing mathematical graphs and practice curves plotting themselves in real time.
+
+04:27.960 --> 04:28.960
+It looks incredible.
+
+04:29.500 --> 04:32.680
+It is the perfect visual representation for what we are about to do.
+
+04:32.960 --> 04:37.500
+Because we are breaking down human cognition into some very observable, very hard data today.
+
+04:37.500 --> 04:43.640
+We have to strip away the poetic metaphors of two minds and look at the actual mathematical curves of practice.
+
+04:44.620 --> 04:45.440
+I love the backdrop.
+
+04:46.000 --> 04:49.340
+It feels like we are inside a giant data visualization.
+
+04:49.860 --> 04:50.460
+It really does.
+
+04:50.980 --> 04:51.960
+And that is necessary.
+
+04:52.160 --> 04:57.660
+Because the fundamental problem the author points out right away is how we define a task by how hard it is.
+
+04:57.740 --> 04:57.940
+Right.
+
+04:58.020 --> 04:58.920
+The intrinsic difficulty.
+
+04:59.180 --> 04:59.360
+Yeah.
+
+04:59.700 --> 05:05.580
+The standard assumption is that some tasks are just inherently System 1 tasks and some are inherently System 2 tasks.
+
+05:05.580 --> 05:10.540
+But this paper argues that speed and effort are not properties of a task itself.
+
+05:10.880 --> 05:11.440
+No, not at all.
+
+05:11.800 --> 05:14.820
+You cannot just point to an activity and say that is a fast activity.
+
+05:15.380 --> 05:17.580
+Instead, speed and effort are joint properties.
+
+05:18.420 --> 05:19.660
+They only exist in combination.
+
+05:20.040 --> 05:20.360
+Exactly.
+
+05:20.780 --> 05:24.880
+In the combination of a task and a person's specific history of practice.
+
+05:25.400 --> 05:33.240
+This is where the author uses a brilliant piece of formal logic to completely dismantle the basic premise of how cognitive scientists have categorized human thought for decades.
+
+05:33.640 --> 05:35.040
+The reversal pair, right?
+
+05:35.040 --> 05:35.480
+Yes.
+
+05:35.880 --> 05:37.640
+It relies on something called a reversal pair.
+
+05:38.400 --> 05:39.700
+Let me lay out the logic here.
+
+05:40.300 --> 05:50.880
+A partition claim, which is what the dual process theory relies on, basically says we can sort all human tasks into a fast bucket and a slow bucket, regardless of who is actually doing them.
+
+05:51.020 --> 05:53.940
+So the task itself is the thing that is either fast or slow.
+
+05:53.940 --> 05:54.260
+Right.
+
+05:54.260 --> 06:05.740
+But if we can find two tasks where the difficulty completely flips depending purely on the person's prior experience, well, then we can no longer claim that either task is intrinsically System 1 or System 2.
+
+06:06.000 --> 06:13.120
+Because if the difficulty is totally dependent on who is sitting in the chair, then the difficulty is not baked into the task itself.
+
+06:13.120 --> 06:14.120
+Precisely.
+
+06:14.560 --> 06:16.340
+The difficulty is not in the task.
+
+06:16.440 --> 06:22.700
+It is in the relationship between the geometry of the task and the historical rehearsal of the agent performing it.
+
+06:23.440 --> 06:23.760
+Okay.
+
+06:24.040 --> 06:24.860
+I follow that.
+
+06:24.860 --> 06:35.940
+So if task A is fast for you, but slow for me, and task B is slow for you, but fast for me, then neither task is intrinsically fast or slow.
+
+06:35.940 --> 06:45.220
+And the paper uses this incredibly relatable everyday example to prove this point, which completely blew my mind because it is so obvious once you see it.
+
+06:45.460 --> 06:46.000
+The keypads.
+
+06:46.440 --> 06:46.700
+Yes.
+
+06:47.400 --> 06:48.860
+Think about the layout of a keypad.
+
+06:49.220 --> 06:55.740
+If you pull out a standard telephone or open the dial pad on your smartphone, the numbers 1, 2, and 3 are on the top row.
+
+06:55.900 --> 06:56.120
+Right.
+
+06:56.600 --> 07:00.420
+The numbers 4, 5, and 6 are in the middle, and 7, 8, and 9 are on the bottom.
+
+07:00.420 --> 07:02.820
+But now, picture a calculator.
+
+07:03.640 --> 07:07.280
+Or the numeric keypad on the far right side of a standard computer keyboard.
+
+07:07.620 --> 07:08.200
+It's inverted.
+
+07:08.520 --> 07:09.820
+The layout is completely inverted.
+
+07:09.960 --> 07:12.220
+The numbers 7, 8, and 9 are on the top row.
+
+07:12.520 --> 07:14.000
+It is a perfect structural mirror.
+
+07:14.380 --> 07:14.620
+Yeah.
+
+07:15.080 --> 07:20.980
+And from a purely functional cognitive standpoint, operating these two keypads represents an identical irreducible demand.
+
+07:21.500 --> 07:23.780
+Meaning it's the exact same amount of work.
+
+07:23.960 --> 07:24.320
+Exactly.
+
+07:24.820 --> 07:28.800
+You are pressing four specific buttons in a sequence on a 3x3 grid.
+
+07:28.800 --> 07:36.080
+The raw computational requirement of moving your finger to a specific spatial coordinate is exactly the same.
+
+07:36.680 --> 07:36.780
+Right.
+
+07:37.460 --> 07:44.600
+So, imagine a task where you have to enter a specific four-digit code, let's say 4826, as rapidly as possible.
+
+07:44.820 --> 07:45.060
+Okay.
+
+07:45.420 --> 07:52.340
+Now, let us bring in a hypothetical person whose history involves working a job where they dial phone numbers all day long.
+
+07:52.480 --> 07:54.760
+Maybe a receptionist or telemarketer.
+
+07:55.140 --> 07:56.660
+Someone who dials constantly.
+
+07:56.880 --> 07:58.500
+But they never touch a calculator.
+
+07:58.800 --> 08:03.960
+For them, entering that code on the telephone layout is going to be incredibly fast.
+
+08:04.080 --> 08:04.700
+Oh, a blur.
+
+08:05.040 --> 08:07.660
+It is going to require almost zero conscious effort.
+
+08:07.820 --> 08:09.040
+They won't even look at the keys.
+
+08:09.580 --> 08:13.780
+It will look to an outside observer exactly like a classic System 1 process.
+
+08:14.060 --> 08:16.240
+It is a blur of automaticity.
+
+08:16.240 --> 08:23.380
+But if you take that exact same person and you hand them the calculator layout, suddenly the whole process halts.
+
+08:23.700 --> 08:24.640
+Everything slows down.
+
+08:24.960 --> 08:25.780
+They have to stop.
+
+08:26.200 --> 08:28.380
+They have to visually search the grid for the numbers.
+
+08:28.860 --> 08:35.040
+They have to consciously, deliberately guide their index finger to the 7, then the 8, then the 9.
+
+08:35.040 --> 08:36.560
+It's painful to watch sometimes.
+
+08:36.760 --> 08:36.920
+Right.
+
+08:37.020 --> 08:39.840
+The execution becomes incredibly slow and error prone.
+
+08:40.260 --> 08:43.500
+It looks exactly like a heavy grinding System 2 process.
+
+08:43.500 --> 08:45.020
+And here's the kicker.
+
+08:45.020 --> 08:55.920
+If you take an accountant, someone who uses a 10 key calculator layout all day long doing taxes, but who rarely ever makes manual phone calls, you get the exact reverse result.
+
+08:56.160 --> 08:57.240
+The perfect reversal.
+
+08:57.560 --> 09:02.440
+For the accountant, the phone layout becomes the slow, agonizing System 2 task.
+
+09:02.440 --> 09:05.740
+They are hunting and pecking on their iPhone screen.
+
+09:05.940 --> 09:06.040
+Yep.
+
+09:06.520 --> 09:10.520
+But the calculator layout, that is a blazing fast blur of muscle memory.
+
+09:11.060 --> 09:13.000
+The cost order completely flips.
+
+09:13.220 --> 09:17.620
+And it completely shatters the idea of a history independent cost separation.
+
+09:18.080 --> 09:18.640
+It really does.
+
+09:19.060 --> 09:27.240
+The dual process theory often treats the endpoints of a practice curve as if they are the outputs of two entirely different architectural machines in the brain.
+
+09:27.340 --> 09:29.020
+Like literally two different mechanisms.
+
+09:29.380 --> 09:29.680
+Yes.
+
+09:29.680 --> 09:35.840
+It says the slow hunt and peck is your analytical machine and the fast typing is your intuitive machine.
+
+09:36.180 --> 09:44.440
+But the keypad example proves that it is the exact same brain engaging with the exact same functional geometry, just with a different history of rehearsal.
+
+09:45.300 --> 09:50.460
+You do not swap out your System 2 brain for a System 1 brain when you move from the phone to the calculator.
+
+09:50.700 --> 09:51.080
+Exactly.
+
+09:51.560 --> 09:54.880
+You just encounter a mismatch with your stored physical habits.
+
+09:55.120 --> 09:59.440
+And once you see this, you start seeing these reversal pairs everywhere in daily life.
+
+09:59.440 --> 10:00.080
+They are everywhere.
+
+10:00.360 --> 10:03.320
+Think about a door that you have to push versus a door you have to pull.
+
+10:03.560 --> 10:08.400
+The famous Norman doors that have a handle implying you should pull, but the mechanics require a push.
+
+10:08.500 --> 10:09.160
+Oh, those are the worst.
+
+10:09.200 --> 10:09.400
+Right.
+
+10:10.020 --> 10:14.840
+It forces you into a slow, deliberate mode because it violates your history of how handles work.
+
+10:14.940 --> 10:15.160
+Yes.
+
+10:15.160 --> 10:22.260
+Or think about trying to use a friend's kitchen appliance where the dials are laid out completely differently than the one you have used at home for 10 years.
+
+10:22.420 --> 10:23.160
+You feel so clumsy.
+
+10:23.340 --> 10:23.500
+Yeah.
+
+10:24.220 --> 10:30.880
+Or on a much deeper cognitive level, think about speaking a language where the syntax and word order is different from your native tongue.
+
+10:31.060 --> 10:31.800
+That's a great example.
+
+10:31.800 --> 10:36.300
+A native English speaker has a terrible time putting the verb at the end of a sentence like they do in German.
+
+10:36.480 --> 10:39.120
+It feels like agonizing System 2 work.
+
+10:39.860 --> 10:42.440
+But to a native German speaker, it is completely automatic.
+
+10:42.660 --> 10:43.680
+System 1 fluency.
+
+10:44.140 --> 10:57.100
+In every single one of these cases, the formal logical proof demonstrates that any scientific theory that tries to permanently separate the easy tasks from the hard tasks will inevitably fail if the real world includes these reversal pairs.
+
+10:57.100 --> 10:57.780
+You just can't do it.
+
+10:57.980 --> 10:58.160
+No.
+
+10:58.460 --> 11:05.680
+You cannot put task A permanently in a fast category because someone else's life experience makes it their slowest task.
+
+11:06.000 --> 11:09.420
+I have to admit, I see a potential flaw in this logic, though.
+
+11:09.540 --> 11:09.720
+Oh.
+
+11:10.100 --> 11:10.300
+Yeah.
+
+11:10.420 --> 11:12.180
+I am going to push back on this a little bit.
+
+11:12.400 --> 11:12.780
+Let's hear it.
+
+11:12.780 --> 11:17.720
+I hear what you were saying about the keypads in the languages because those tasks are symmetrical.
+
+11:18.000 --> 11:20.340
+They are structurally identical, just flipped.
+
+11:20.820 --> 11:20.960
+Okay.
+
+11:21.500 --> 11:26.180
+But aren't there just some things that are universally objectively harder for a human brain to compute?
+
+11:26.180 --> 11:29.440
+Give me an example of what you mean by universally harder.
+
+11:29.840 --> 11:30.740
+Well, let's take math.
+
+11:31.840 --> 11:38.360
+Asking someone to solve a complex, multivariable calculus equation in their head versus asking them to add 2 plus 2.
+
+11:38.580 --> 11:38.840
+Right.
+
+11:39.200 --> 11:41.000
+It doesn't matter what your history is.
+
+11:41.460 --> 11:44.420
+The calculus is always going to demand more cognitive resources.
+
+11:45.180 --> 11:45.460
+Okay.
+
+11:45.600 --> 11:46.180
+I see where you're going.
+
+11:46.860 --> 11:49.000
+The analogy I think of is lifting weights at the gym.
+
+11:49.840 --> 11:53.320
+A 100-pound dumbbell is universally harder to lift than a 5-pound dumbbell.
+
+11:53.320 --> 11:58.180
+Well, regardless of whether you are a professional bodybuilder or someone who has never worked out a day in their life.
+
+11:58.340 --> 11:58.620
+That's true.
+
+11:58.940 --> 11:59.200
+Yes.
+
+11:59.480 --> 12:03.220
+The bodybuilder can lift the 100 pounds easily, and the beginner cannot even budget.
+
+12:03.740 --> 12:06.880
+But the 100-pound weight is always intrinsically heavier.
+
+12:07.200 --> 12:09.140
+The raw physical demand is higher.
+
+12:09.800 --> 12:10.120
+Right.
+
+12:10.120 --> 12:20.240
+Doesn't that imply that some cognitive tasks, like calculus, just naturally force you into a heavier System 2 mode of operation because the raw computational weight is higher?
+
+12:20.900 --> 12:22.580
+That is an excellent challenge, actually.
+
+12:23.040 --> 12:27.960
+And the weightlifting analogy highlights exactly the trap the old dual process theory falls into.
+
+12:28.540 --> 12:28.760
+Okay.
+
+12:28.780 --> 12:29.140
+How so?
+
+12:29.140 --> 12:37.640
+Because if we look closely at the paper's argument, the author is not actually denying that some computations require more raw steps than others.
+
+12:38.140 --> 12:38.740
+Oh, they aren't?
+
+12:38.920 --> 12:39.080
+No.
+
+12:39.620 --> 12:44.620
+The paper is not saying all tasks require the exact same absolute effort.
+
+12:45.180 --> 12:48.120
+A 1,000-piece puzzle takes more absolute moves than a 10-piece puzzle.
+
+12:48.380 --> 12:49.140
+That's just a fact.
+
+12:49.520 --> 12:49.780
+Right.
+
+12:49.780 --> 12:54.520
+What the text is clarifying here is the foundation of the categorization itself.
+
+12:55.480 --> 13:00.780
+The target of this critique is the scientific practice of inferring a biological partition from observed speed.
+
+13:01.600 --> 13:04.000
+Wait, let me make sure I am mapping this to reality.
+
+13:04.600 --> 13:07.840
+You are saying the problem isn't that calculus is hard.
+
+13:08.040 --> 13:10.360
+The problem is how scientists label it.
+
+13:10.500 --> 13:11.020
+Precisely.
+
+13:11.020 --> 13:25.420
+If a cognitive scientist is categorizing tasks into System 1 and System 2 purely based on the fact that one group of people performs one task fast and another task slow, their categorization is logically invalid.
+
+13:25.800 --> 13:27.320
+Because speed is the wrong metric.
+
+13:27.600 --> 13:32.560
+Because speed as a metric is hopelessly contaminated by the agent's practice history.
+
+13:32.780 --> 13:33.840
+Oh, I see.
+
+13:33.840 --> 13:43.200
+Even with your calculus example, a professional mathematician who has spent 20 years solving a specific type of complex equation might actually intuit the shape of the answer.
+
+13:43.320 --> 13:50.140
+They might literally see the solution in their mind's eye faster than a distracted, tired child can confidently add 2 plus 2.
+
+13:50.340 --> 13:50.740
+Wow.
+
+13:50.920 --> 13:51.220
+Okay.
+
+13:51.560 --> 13:57.740
+The mathematician has cached those specific structural patterns over decades of intense, focused rehearsal.
+
+13:57.740 --> 14:04.700
+So, even the 100-pound weight feels like 5 pounds if you have the right neural architecture built up to support it.
+
+14:04.820 --> 14:05.180
+Exactly.
+
+14:06.120 --> 14:10.620
+The paper acknowledges that there might be processes that are universally dependent on working memory.
+
+14:11.140 --> 14:20.240
+But it fiercely argues that you cannot use cost, meaning speed, latency, and perceived effort, as the primary sorting mechanism for brain architecture.
+
+14:20.620 --> 14:22.760
+Because it's too tied to the person's past?
+
+14:22.760 --> 14:32.900
+Because the moment you rely on speed to label something system 1, you are inherently measuring the agent's practice history, not just the task's intrinsic difficulty.
+
+14:33.680 --> 14:39.380
+Therefore, an intrinsic partition of tasks based on cost is a statistical impossibility.
+
+14:40.140 --> 14:42.000
+Okay, that actually makes perfect sense.
+
+14:42.520 --> 14:45.380
+The difficulty is a relationship between the task and the user.
+
+14:45.600 --> 14:49.080
+It is not an isolated property of the task sitting in a vacuum.
+
+14:49.320 --> 14:49.560
+Right.
+
+14:49.560 --> 14:52.700
+But this brings up a huge operational question.
+
+14:53.060 --> 14:53.300
+Which is?
+
+14:53.980 --> 15:03.180
+If we can't categorize tasks as being inherently fast or slow, and we are completely throwing out the idea of two different cognitive machines trading places inside our head,
+
+15:03.800 --> 15:09.000
+how exactly does a single brain get so blindingly fast at doing things?
+
+15:09.380 --> 15:10.340
+Ah, right.
+
+15:10.680 --> 15:13.200
+Because we know automaticity is a real phenomenon.
+
+15:13.200 --> 15:17.260
+I know for a fact I can tie my shoes while holding a conversation and looking at my phone.
+
+15:17.260 --> 15:21.160
+How does the one machine model actually achieve that level of speed?
+
+15:21.680 --> 15:25.400
+This is where we move from tearing down the old theory to building up the new one.
+
+15:26.060 --> 15:30.440
+And it revolves around the concept of practice as amortization.
+
+15:31.220 --> 15:31.740
+Amortization.
+
+15:32.120 --> 15:32.640
+Amortization.
+
+15:32.760 --> 15:33.720
+Like paying down a mortgage.
+
+15:34.460 --> 15:35.040
+Sort of, yeah.
+
+15:35.700 --> 15:39.160
+Amortization is a term usually used in finance or computer science.
+
+15:39.940 --> 15:44.040
+In finance, it means paying off a large initial cost gradually over time.
+
+15:44.040 --> 15:55.620
+In computer science, it means doing a really heavy, expensive computation once and then saving the result in a local cache so you don't ever have to pay that computational cost again.
+
+15:56.180 --> 15:57.480
+You just look up the saved answer.
+
+15:57.740 --> 15:58.020
+Yes.
+
+15:58.780 --> 16:03.580
+So the brain is essentially building up a massive library of pre-computed answers.
+
+16:03.900 --> 16:04.200
+Exactly.
+
+16:04.200 --> 16:13.060
+And to prove this, the paper relies on a very well-established empirical regularity in psychology known as the power law of practice.
+
+16:13.700 --> 16:15.080
+The power law of practice.
+
+16:15.300 --> 16:15.560
+Yes.
+
+16:15.640 --> 16:24.100
+This was established by researchers Newell and Rosenblum back in 1981 and further refined into the exponential law discussed by Heathcote and colleagues.
+
+16:24.780 --> 16:26.900
+These aren't new controversial findings.
+
+16:27.060 --> 16:28.920
+They are bedrock psychological data.
+
+16:28.920 --> 16:35.520
+And what do these mathematical laws actually show us about human performance when we practice something over and over?
+
+16:35.940 --> 16:45.120
+They show us that performance improvement, which we measure as the drop in the time it takes to do a task, follows a continuous mathematically smooth curve.
+
+16:45.500 --> 16:47.240
+A smooth curve.
+
+16:47.500 --> 16:56.520
+If you plot the learning curve of a human being doing a repetitive task, the mathematical formula basically shows a curve that just keeps sliding downward.
+
+16:56.520 --> 17:04.940
+It starts incredibly steep, meaning you get a lot faster in your first few attempts, and then it slowly flattens out as you approach your physical limit.
+
+17:05.220 --> 17:05.460
+Okay.
+
+17:05.780 --> 17:09.520
+But the crucial takeaway isn't the algebra itself, it's the shape of that curve.
+
+17:09.900 --> 17:14.540
+It is strictly decreasing, and most importantly, it is completely smooth.
+
+17:15.140 --> 17:16.280
+There are no sudden cliffs.
+
+17:16.280 --> 17:26.040
+Wait, so if the math is a perfectly smooth curve, that means picking the moment a task becomes automatic is basically completely arbitrary.
+
+17:26.700 --> 17:27.460
+Completely arbitrary.
+
+17:27.880 --> 17:33.340
+I'm just picking a random point on a downward slope and deciding, okay, now I'm using system one.
+
+17:33.540 --> 17:33.920
+Exactly.
+
+17:34.460 --> 17:38.360
+You just hit on what the author calls eradicating the magic threshold.
+
+17:38.920 --> 17:40.920
+The magic threshold.
+
+17:41.260 --> 17:41.920
+I like that.
+
+17:41.920 --> 17:50.160
+When people talk about dual process theory in popular culture, they often use language like, if you practice enough, eventually the task becomes automatic.
+
+17:50.260 --> 17:51.060
+Yeah, I've said that.
+
+17:51.600 --> 18:03.900
+They heavily imply there is a distinct moment, a specific point in time, or a specific number of repetitions, where the slow system two hands the steering wheel over to the fast system one.
+
+18:04.460 --> 18:06.400
+It implies a mechanical relay switch.
+
+18:06.400 --> 18:09.000
+Like shifting gears in a manual transmission car.
+
+18:09.260 --> 18:15.420
+You are in first gear, which is loud and slow, and then you hit the clutch and physically move into second gear.
+
+18:15.600 --> 18:15.900
+Right.
+
+18:16.080 --> 18:17.760
+But the math proves there is no clutch.
+
+18:18.240 --> 18:19.280
+There is no gear shift.
+
+18:20.120 --> 18:26.700
+For any arbitrary threshold of time you choose to define as automatic, the slope of the cost curve remains continuous.
+
+18:27.060 --> 18:27.920
+There's no jump.
+
+18:28.220 --> 18:30.820
+There is absolutely no sudden jump in the data.
+
+18:31.040 --> 18:35.680
+There is no step in the graph where one mechanism shuts off and another distinctly turns on.
+
+18:36.400 --> 18:39.680
+The threshold is an absolute invention of the observer.
+
+18:40.320 --> 18:45.480
+It is a convenient fiction, we tell ourselves, because human beings like to categorize things into neat boxes.
+
+18:45.800 --> 18:56.100
+So when I say I practiced playing this song on the guitar until it became automatic, I am basically just drawing a completely invisible made-up line in the sand.
+
+18:56.400 --> 18:56.960
+Precisely.
+
+18:56.960 --> 19:12.640
+A continuous mathematical function does not strictly forbid two mechanisms from operating simultaneously and changing their relative contributions over time, but it utterly destroys the evidence that crossing some magical threshold is proof of a categorical switch.
+
+19:12.880 --> 19:13.140
+Right.
+
+19:13.660 --> 19:17.980
+You cannot point to a smooth slope and claim it as evidence of two different staircases.
+
+19:17.980 --> 19:19.940
+That makes total sense.
+
+19:20.500 --> 19:24.020
+I love how this paper doesn't just stop at breaking down the old theory.
+
+19:24.720 --> 19:27.000
+It doesn't just say, you're all wrong, goodbye.
+
+19:27.640 --> 19:28.960
+No, it offers a replacement.
+
+19:29.400 --> 19:29.600
+Right.
+
+19:29.960 --> 19:34.900
+It actually provides a working, highly detailed mathematical model for the single process alternative.
+
+19:35.400 --> 19:40.700
+It explains how this smooth curve actually operates inside our neurobiology.
+
+19:40.960 --> 19:41.220
+Yes.
+
+19:41.220 --> 19:43.740
+The text calls this the memoization model.
+
+19:44.160 --> 19:47.940
+And this model is built on the shoulders of some giants in cognitive psychology.
+
+19:48.220 --> 19:57.220
+The paper draws heavily on Gordon Logan's instance theory, which is the idea that automaticity is just the retrieval of specific stored episodes from our past.
+
+19:57.760 --> 20:00.380
+And John Anderson's concept of knowledge compilation.
+
+20:01.200 --> 20:02.440
+Knowledge compilation.
+
+20:02.860 --> 20:03.460
+Yes.
+
+20:03.700 --> 20:11.120
+Which is about how our brains convert slow, interpretive, declarative knowledge into fast, direct procedural routines.
+
+20:12.120 --> 20:19.280
+The author synthesizes these concepts into a single, elegant equation for the expected cost of a cognitive task.
+
+20:19.720 --> 20:21.440
+So what does this all mean?
+
+20:22.040 --> 20:31.700
+I want to really dive deeply into this single process model because when I was reading the source material, I came up with an analogy that I think maps perfectly onto the variables in this equation.
+
+20:32.060 --> 20:34.380
+Oh, I am always a fan of a strong analogy.
+
+20:34.940 --> 20:35.500
+Let's hear it.
+
+20:35.720 --> 20:40.400
+I will track your analogy against the formal variables in the text's single process model.
+
+20:40.400 --> 20:41.600
+Okay, perfect.
+
+20:42.200 --> 20:49.800
+The model says that the total expected effort or cost of any task we face is a combination of several specific potential actions.
+
+20:50.140 --> 20:50.340
+Right.
+
+20:50.620 --> 20:54.160
+I like to think of navigating these actions like cooking a complex dinner in my kitchen.
+
+20:54.620 --> 20:57.740
+Let us say I want to make a really elaborate traditional lasagna.
+
+20:58.080 --> 20:59.140
+Okay, I'm tracking.
+
+20:59.140 --> 21:04.200
+Now, if I have never made this specific lasagna before, I have to solve the problem from scratch.
+
+21:04.600 --> 21:12.980
+I have to find the cookbook, read every single line of the recipe, carefully measure out exactly two cups of flour, precisely measure the ricotta.
+
+21:13.400 --> 21:16.080
+I have to read the instructions on how long to boil the noodles.
+
+21:16.320 --> 21:16.960
+It's a whole ordeal.
+
+21:16.960 --> 21:17.720
+It is.
+
+21:17.980 --> 21:19.520
+That process is incredibly slow.
+
+21:19.860 --> 21:21.540
+It is highly prone to error.
+
+21:21.740 --> 21:23.920
+And it takes a massive amount of mental effort.
+
+21:24.740 --> 21:29.340
+In the formal model, this is represented by the variable S, the solve from scratch cost.
+
+21:29.580 --> 21:31.000
+The solve from scratch cost.
+
+21:31.160 --> 21:31.360
+Yes.
+
+21:31.860 --> 21:37.160
+And just like in your kitchen, S is the most expensive, highest latency route the brain can possibly take.
+
+21:37.540 --> 21:39.960
+It is raw, unamortized computation.
+
+21:40.180 --> 21:41.940
+Okay, now let's fast forward a year.
+
+21:42.060 --> 21:42.320
+All right.
+
+21:42.320 --> 21:46.280
+I have made this exact same lasagna 50 times for my family.
+
+21:46.580 --> 21:48.760
+I have the recipe completely memorized.
+
+21:49.280 --> 21:52.160
+I have stored that specific episode in my long-term memory.
+
+21:52.800 --> 21:56.700
+According to the paper, retrieving that stored memory has a cost.
+
+21:56.860 --> 21:57.240
+It does.
+
+21:57.380 --> 22:01.260
+It is a very, very small cost compared to reading the cookbook, but it is not zero.
+
+22:01.440 --> 22:01.740
+Correct.
+
+22:02.040 --> 22:03.980
+The paper calls this the retrieval cost.
+
+22:04.360 --> 22:12.300
+It is the baseline computational expense of pinging your own memory banks to see if the stored solution to the current problem exists.
+
+22:12.900 --> 22:15.800
+Even a fast lookup requires some biological energy.
+
+22:16.580 --> 22:20.280
+But here is the crucial part that I think people miss when they talk about habits.
+
+22:20.440 --> 22:20.720
+What's that?
+
+22:21.120 --> 22:27.380
+Even if I instantly retrieve the perfectly memorized lasagna recipe from my brain, I cannot just blindly start cooking.
+
+22:27.540 --> 22:30.500
+I still have to walk over to my pantry and open the refrigerator.
+
+22:30.880 --> 22:31.100
+Right.
+
+22:31.180 --> 22:32.200
+You have to check your supplies.
+
+22:32.200 --> 22:32.680
+Exactly.
+
+22:33.360 --> 22:39.600
+I have to look inside and make sure I actually have ricotta cheese and ground beef and tomato sauce in the house today.
+
+22:40.200 --> 22:43.100
+The current environment has to perfectly match the memory.
+
+22:43.740 --> 22:45.660
+The paper calls this the assessment cost.
+
+22:46.340 --> 22:50.240
+This is a vital nuance, and I am glad your analogy highlights it.
+
+22:50.780 --> 22:58.140
+The assessment cost is absolutely critical because a stored answer in your brain was verified for the situation in which it was originally produced.
+
+22:58.240 --> 22:59.300
+The exact situation.
+
+22:59.300 --> 22:59.860
+Right.
+
+23:00.260 --> 23:09.720
+The text explicitly states that reuse of a memory is warranted only when the present instance preserves the exact conditions on which that original deliberate solution depended.
+
+23:10.300 --> 23:11.840
+You cannot blindly execute.
+
+23:12.020 --> 23:15.420
+You have to pay the assessment cost to check the environmental conditions.
+
+23:15.420 --> 23:15.900
+Exactly.
+
+23:16.420 --> 23:23.300
+Because if I look in the fridge and I realize I only have cottage cheese instead of ricotta, the exact conditions are broken.
+
+23:23.620 --> 23:23.900
+Ah.
+
+23:24.260 --> 23:25.900
+I have to stop and make a substitution.
+
+23:26.420 --> 23:30.580
+I have to mentally calculate how cottage cheese will change the moisture of the lasagna.
+
+23:31.140 --> 23:35.240
+I have to adapt my stored memory to fit the current, slightly altered reality.
+
+23:35.880 --> 23:37.620
+And that mental pivot has a cost, too.
+
+23:37.900 --> 23:39.980
+The model defines this dynamically.
+
+23:39.980 --> 23:49.920
+It takes the probability of applicability, meaning the odds that your memory mostly fits the situation, and multiplies it by the adaptation cost.
+
+23:50.420 --> 23:50.580
+Okay.
+
+23:50.960 --> 23:53.040
+So that covers substitutions.
+
+23:53.540 --> 23:57.340
+And what if I open the pantry and it is completely bare?
+
+23:57.660 --> 24:03.320
+If I have absolutely zero ingredients, meaning the memory completely fails to apply to the current reality.
+
+24:03.640 --> 24:06.800
+Then you suffer what the paper calls the fallback cost.
+
+24:07.340 --> 24:08.160
+The fallback cost.
+
+24:08.160 --> 24:16.180
+So I have to abandon the memory entirely, get my keys, drive to the grocery store, buy the ingredients, and basically start from scratch anyway.
+
+24:16.520 --> 24:16.780
+Yes.
+
+24:17.240 --> 24:28.020
+In this scenario, I have paid the small retrieval cost to remember the recipe, I have paid the assessment cost to check the pantry, and now I still have to pay the massive salt-from-scratch cost.
+
+24:28.360 --> 24:31.180
+Your kitchen analogy maps flawlessly to the formal equation.
+
+24:31.600 --> 24:32.100
+Oh, awesome.
+
+24:32.100 --> 24:40.520
+The brilliant thing about this single-process model is that the human agent does not magically know which route is going to be faster before they start the task.
+
+24:41.040 --> 24:45.500
+You always, inevitably, pay the retrieval and assessment overhead.
+
+24:45.780 --> 24:47.100
+You always check the pantry.
+
+24:47.300 --> 24:48.520
+You always check the pantry.
+
+24:49.180 --> 24:53.180
+If the stored case is a perfect match, you grab the ingredients and finish quickly.
+
+24:53.340 --> 24:55.260
+That looks like system one.
+
+24:55.440 --> 24:55.700
+Right.
+
+24:55.700 --> 25:01.960
+If it isn't a perfect match, you fall back to deliberate calculation that looks like system two.
+
+25:02.860 --> 25:09.880
+But both scenarios are happening within the exact same cognitive architecture, executing the exact same sequential procedure.
+
+25:09.880 --> 25:16.800
+And there is a really profound, almost philosophical point the author makes here about how we view human behavior.
+
+25:17.300 --> 25:27.500
+Just because you are cooking the lasagna rapidly from memory, just because you are executing a fast, effortless, habitual response, that does not mean you never evaluated the task.
+
+25:28.020 --> 25:31.500
+I think this is one of the most misunderstood aspects of human psychology.
+
+25:31.780 --> 25:32.060
+Really?
+
+25:32.060 --> 25:33.020
+Oh, absolutely.
+
+25:33.540 --> 25:36.280
+The text is fiercely explicit on this point.
+
+25:36.820 --> 25:42.820
+Fast execution is absolutely not evidence that a deliberate evaluation never occurred in the past.
+
+25:43.060 --> 25:46.600
+Right, because I did evaluate it a year ago when I read the cookbook.
+
+25:46.820 --> 25:47.240
+Exactly.
+
+25:47.860 --> 25:54.840
+When you watch a master pianist play a complex sonata effortlessly, or you watch a professional athlete react to a play in milliseconds,
+
+25:54.840 --> 26:01.740
+it is so tempting to say they are acting on blind intuition or relying on some primitive, non-conscious system.
+
+26:01.880 --> 26:04.220
+Yeah, we say they just have natural instinct.
+
+26:04.700 --> 26:05.920
+We strip them of their agency.
+
+26:06.720 --> 26:19.000
+But in reality, that fast response is just a heavily amortized, perfectly cached result of a very rigorous, deeply deliberate evaluation they executed hundreds of times in a practice room years ago.
+
+26:19.180 --> 26:20.400
+That makes a lot of sense.
+
+26:20.400 --> 26:24.420
+The exact conditions matched, the assessment cleared, and they executed.
+
+26:24.860 --> 26:28.700
+The deep evaluation is still there, it has just been shifted backward in time.
+
+26:29.000 --> 26:31.100
+It is frozen deliberation.
+
+26:31.320 --> 26:32.100
+I love that concept.
+
+26:32.260 --> 26:33.180
+It's very poetic.
+
+26:33.700 --> 26:36.900
+So, this single process equation makes total sense to me.
+
+26:36.980 --> 26:45.420
+It explains the smooth curve, it explains why we get faster, and it relies entirely on one unified brain just getting better at looking up its own past homework.
+
+26:45.600 --> 26:45.840
+Yes.
+
+26:45.840 --> 26:54.640
+But if we assume this is true, it raises a massive, glaring logistical problem for the people who still believe in the old dual process theory.
+
+26:55.020 --> 27:01.520
+This brings us to what the author calls the routing argument, and it feels like the fatal strike against System 1 and System 2.
+
+27:01.800 --> 27:03.780
+It is a devastating logical blow.
+
+27:04.620 --> 27:08.560
+Think about the physical mechanics required for a two-system brain to actually function.
+
+27:09.080 --> 27:09.420
+Okay.
+
+27:09.420 --> 27:20.140
+If you genuinely have two distinct cognitive machines, you must have some kind of mechanism that decides which machine to turn on for any given task.
+
+27:20.480 --> 27:22.000
+Right, like a switchboard operator.
+
+27:22.340 --> 27:22.640
+Yes.
+
+27:22.800 --> 27:31.260
+There must be a router or a dispatcher sitting up there in your cortex looking at an incoming problem, judging it, and saying,
+
+27:31.260 --> 27:35.620
+Ah, this is an easy face recognition problem. Send it to System 1.
+
+27:36.180 --> 27:39.600
+Or, uh-oh, this is hard math. Send this to System 2.
+
+27:40.060 --> 27:45.300
+Because if System 1 is fast, but it can't do math, something has to prevent it from trying and failing.
+
+27:45.560 --> 27:45.920
+Exactly.
+
+27:46.760 --> 27:50.160
+And the author formalizes this problem mathematically in the text.
+
+27:50.160 --> 27:57.700
+If you have two systems, the act of assigning a task to a system is itself a computational task.
+
+27:58.540 --> 27:59.840
+The dispatcher has to work, too.
+
+28:00.080 --> 28:02.680
+The dispatcher has to do work to make a decision.
+
+28:03.500 --> 28:11.720
+And the math proves that the temporal cost of routing the task must inherently be cheaper than the actual speed advantage you gain by using the fast system.
+
+28:12.140 --> 28:18.540
+Oh, because if the router is slow, it completely defeats the entire evolutionary purpose of having a fast system in the first place.
+
+28:18.640 --> 28:18.880
+Yes.
+
+28:18.880 --> 28:30.360
+If it takes my brain three seconds to decide whether to use my fast system or my slow system, and the fast system only saves me one second of processing time, I have suffered a massive net loss.
+
+28:30.500 --> 28:31.880
+I am slower overall.
+
+28:32.520 --> 28:32.980
+Precisely.
+
+28:33.180 --> 28:38.220
+The overhead cost of a complex dispatcher ruins the economics of the dual-process architecture.
+
+28:38.580 --> 28:38.920
+Wow.
+
+28:39.560 --> 28:42.560
+But the author's argument goes much deeper than just processing latency.
+
+28:43.000 --> 28:45.720
+It strikes at the very heart of cognitive philosophy.
+
+28:45.720 --> 28:50.380
+The author points out something called the fallacy of the little supervisor.
+
+28:51.280 --> 28:52.980
+The fallacy of the little supervisor.
+
+28:53.520 --> 28:57.120
+I have heard this referred to as the homunculus problem in philosophy.
+
+28:57.340 --> 28:58.800
+Rene Descartes dealt with this.
+
+28:58.800 --> 29:00.900
+It is the exact same trap.
+
+29:01.380 --> 29:11.960
+If you posit a dispatcher that surveys a thought, judges how complex it is, and then routes it to the appropriate cognitive machine, you haven't actually explained how human intelligence works at all.
+
+29:12.180 --> 29:13.240
+No, you really haven't.
+
+29:13.240 --> 29:19.960
+You have just invented a tiny, hyper-intelligent little person, a homunculus, living inside the brain.
+
+29:20.300 --> 29:24.940
+And you have left the intelligence of that tiny supervisor completely unexplained.
+
+29:25.440 --> 29:25.960
+Right.
+
+29:25.960 --> 29:32.780
+How does the dispatcher magically know how hard a calculus problem is without actually doing the calculus first?
+
+29:33.260 --> 29:33.520
+Exactly.
+
+29:34.160 --> 29:37.500
+To know that a problem is hard, you have to somewhat understand the problem.
+
+29:37.920 --> 29:42.640
+The whole point of dual-process theory was to explain how human beings make judgments.
+
+29:43.040 --> 29:43.240
+Yes.
+
+29:43.880 --> 29:51.360
+But if your theory requires a magical little judge to pre-sort the judgments before they are judged, I mean, you are trapped in an infinite loop.
+
+29:51.440 --> 29:52.940
+It is turtles all the way down.
+
+29:53.040 --> 29:54.380
+It is an infinite regress.
+
+29:54.380 --> 29:59.700
+You have outsourced the mystery of cognition to a smaller, unexplained box inside the brain.
+
+30:00.500 --> 30:01.040
+Wait, wait, wait.
+
+30:01.440 --> 30:06.640
+Let me play devil's advocate here because this feels almost too absolute.
+
+30:06.960 --> 30:07.260
+Okay.
+
+30:07.580 --> 30:12.780
+Is the paper saying that all routing in the brain is completely biologically impossible?
+
+30:13.340 --> 30:13.980
+No, not quite.
+
+30:14.160 --> 30:18.920
+Because I know from my own lived experience that we clearly do shift gears.
+
+30:18.920 --> 30:24.820
+Sometimes I am driving, acting on complete autopilot, and suddenly a deer jumps into the road.
+
+30:24.980 --> 30:29.120
+And I consciously feel my brain snap into a hyper-focused, deliberate mode.
+
+30:29.240 --> 30:30.580
+I am routing resources.
+
+30:31.020 --> 30:32.740
+That is a crucial distinction.
+
+30:33.340 --> 30:36.000
+And the paper is very careful not to overstep here.
+
+30:36.320 --> 30:39.120
+It is not saying that all routing is impossible.
+
+30:39.120 --> 30:39.900
+Okay, good.
+
+30:40.440 --> 30:52.700
+It is saying that a magical, categorical router, one that just inherently knows the difference between System 1 and System 2 without doing any work, is logically useless and scientifically indefensible.
+
+30:52.920 --> 30:53.580
+Ah, I see.
+
+30:53.580 --> 30:58.260
+A mechanical, explicable routing policy, however, is perfectly fine.
+
+30:59.200 --> 31:00.780
+And here is the beauty of it.
+
+31:01.380 --> 31:12.140
+If we look back at our single-process lasagna analogy, the retrieval and assessment steps, checking the memory and checking the pantry, that exact sequence is the router.
+
+31:12.800 --> 31:13.100
+Ah.
+
+31:13.400 --> 31:17.800
+Because checking the pantry naturally determines whether I go fast or go slow.
+
+31:18.060 --> 31:18.560
+Exactly.
+
+31:18.560 --> 31:23.640
+The crucial difference is that the cost of checking the pantry is paid for every single time, uniformly.
+
+31:24.560 --> 31:25.920
+There is no magical prejudgment.
+
+31:26.260 --> 31:28.700
+There is no magic homunculus making a prejudgment.
+
+31:29.300 --> 31:30.060
+You ping the memory.
+
+31:30.400 --> 31:32.800
+If the conditions match perfectly, you execute quickly.
+
+31:33.500 --> 31:39.720
+If the assessment fails, because the conditions changed, you are mechanically forced to fall back to the slow, deliberate route.
+
+31:40.100 --> 31:41.480
+That is so elegant.
+
+31:41.480 --> 31:49.560
+The success or failure of the fast route is entirely settled by mechanical, sequential steps that you already pay the biological cost to execute.
+
+31:50.440 --> 31:53.800
+So the single-process model inherently contains its own routing logic.
+
+31:54.240 --> 31:58.480
+It doesn't need a little supervisor because the structure of the memory lookup is the dispatcher.
+
+31:59.340 --> 31:59.480
+Precisely.
+
+32:00.480 --> 32:10.160
+The text also brings up a very serious, highly respected alternative theory from researchers Shenhaft, Bodvinik, and Cohen called the expected value of control account.
+
+32:10.160 --> 32:12.360
+The expected value of control.
+
+32:12.660 --> 32:12.880
+Yes.
+
+32:13.160 --> 32:19.000
+This is a framework where cognitive control is allocated based on a graded, continuous cost-benefit analysis.
+
+32:19.940 --> 32:26.680
+The brain constantly weighs the expected benefit of deploying intense focus against the heavy metabolic effort cost of doing so.
+
+32:27.180 --> 32:28.000
+Now that makes sense.
+
+32:28.400 --> 32:31.560
+That is a specified, mechanically testable mechanism.
+
+32:32.120 --> 32:34.580
+It is not an unexplained categorical sorter.
+
+32:35.500 --> 32:37.520
+A learned mechanical policy is defensible.
+
+32:37.520 --> 32:44.940
+But the casual assumption that a supervisor just knows what is system one and system two is a fatal flaw in the popular doctrine.
+
+32:45.580 --> 32:52.500
+Okay, so if the science is this robust, if the mathematical curves point to a single, continuous system of practice,
+
+32:53.120 --> 32:58.360
+and the routing logic of two systems requires a magical, tiny person living in our heads,
+
+32:58.860 --> 33:03.020
+why on earth are we also universally convinced that we have two separate minds?
+
+33:03.160 --> 33:03.860
+That's a great question.
+
+33:03.860 --> 33:08.060
+Why does it feel so undeniably real to every single one of us?
+
+33:08.180 --> 33:11.920
+Because human beings are remarkably susceptible to systematic illusions.
+
+33:12.120 --> 33:13.560
+We do trick ourselves a lot.
+
+33:13.820 --> 33:14.140
+We do.
+
+33:14.820 --> 33:22.000
+The author dedicates a massive portion of the paper to breaking down three specific, deeply ingrained errors in how we observe ourselves,
+
+33:22.540 --> 33:25.300
+and more importantly, how scientists conduct their studies.
+
+33:25.720 --> 33:28.060
+Oh, so the scientists are falling for it too.
+
+33:28.060 --> 33:28.700
+Absolutely.
+
+33:29.340 --> 33:35.000
+These errors combine to trick us into believing the system one and system two partition is an objective reality.
+
+33:35.720 --> 33:37.920
+The first one is called the error of selection.
+
+33:38.340 --> 33:44.340
+This one fascinated me because it exposes how cyclical and biased academic research can actually be.
+
+33:44.520 --> 33:44.840
+It does.
+
+33:45.140 --> 33:49.020
+The paper points out that when researchers want to study system one,
+
+33:49.600 --> 33:54.060
+they intentionally pick tasks that are inherently incredibly easy for adult humans.
+
+33:54.060 --> 33:54.620
+Yes.
+
+33:54.880 --> 33:59.660
+They pick things like recognizing a facial expression or reading a basic word.
+
+34:00.320 --> 34:05.220
+These are tasks where the number of prior practice episodes over a human lifetime is in the tens of millions,
+
+34:05.420 --> 34:08.400
+and they label those heavily practiced tasks system one.
+
+34:08.860 --> 34:11.320
+And then when they want to study system two,
+
+34:11.660 --> 34:16.280
+they intentionally select tasks that are extraordinarily rare or structurally novel.
+
+34:16.540 --> 34:16.820
+Right.
+
+34:16.820 --> 34:21.060
+They use complex logic puzzles or abstract probability questions,
+
+34:21.420 --> 34:24.780
+things the average person might encounter a handful of times in a decade.
+
+34:25.520 --> 34:28.060
+It is a massive self-fulfilling prophecy.
+
+34:28.500 --> 34:29.420
+It absolutely is.
+
+34:29.840 --> 34:34.980
+If you define system one by selecting tasks that people have practiced tens of thousands of times,
+
+34:35.460 --> 34:39.340
+and you define system two by selecting tasks they have zero practice with,
+
+34:39.900 --> 34:44.180
+of course you will find a massive, statistically significant difference in speed and latency.
+
+34:44.700 --> 34:45.360
+Of course you will.
+
+34:45.360 --> 34:47.720
+But as the text firmly states,
+
+34:48.320 --> 34:54.500
+finding that system one tasks are cheap to execute is merely a restatement of how the tasks were chosen in the first place.
+
+34:54.760 --> 34:55.040
+Wow.
+
+34:55.660 --> 35:00.180
+You are just observing the universally accepted effects of high practice versus low practice.
+
+35:00.680 --> 35:03.940
+You are not discovering the existence of two different brain architectures.
+
+35:04.320 --> 35:08.340
+You are just discovering that practice works, which we already knew.
+
+35:08.500 --> 35:08.840
+Exactly.
+
+35:09.280 --> 35:11.560
+The methodology guarantees the result.
+
+35:11.560 --> 35:16.340
+The second error the paper identifies is the error of salience.
+
+35:16.480 --> 35:20.340
+And this one is so fundamentally, beautifully human.
+
+35:20.960 --> 35:25.340
+The paper argues that our memory is heavily biased toward extremes.
+
+35:25.900 --> 35:28.960
+We only remember the dramatic endpoints of a learning curve.
+
+35:28.960 --> 35:32.140
+Think about the process of learning to play a musical instrument.
+
+35:32.240 --> 35:33.220
+Yes, the guitar.
+
+35:33.640 --> 35:33.880
+Right.
+
+35:34.260 --> 35:39.060
+When you first learn to play the guitar, you vividly remember that first terrible month.
+
+35:39.600 --> 35:48.660
+Your fingertips are bleeding, your wrist is cramping, and you have to stare intensely at the fretboard just to force your fingers into the awkward shape of a C chord.
+
+35:48.780 --> 35:49.220
+It's awful.
+
+35:49.220 --> 35:52.900
+It is painful, salient, system to labor.
+
+35:53.600 --> 36:02.920
+And you also vividly remember years later when you were sitting around a campfire, effortlessly strumming along to a song while drinking a beer and holding a conversation.
+
+36:03.220 --> 36:03.960
+That's the best part.
+
+36:03.960 --> 36:07.960
+It feels like pure, effortless, system-one magic.
+
+36:08.600 --> 36:19.960
+But your brain totally ignores and forgets the 998 intermediate, incredibly boring, mundane practice sessions in the middle where you incrementally improved.
+
+36:19.960 --> 36:28.300
+And what is so insidious about this memory bias toward salience is how it creates a false dichotomy in our own self-perception.
+
+36:29.100 --> 36:29.940
+A false dichotomy.
+
+36:30.840 --> 36:39.260
+By only naming and remembering the two extreme ends of the practice curve, we give ourselves the profound impression that we possess two distinct machines.
+
+36:40.020 --> 36:42.780
+The halting, painful start is labeled System 2.
+
+36:43.340 --> 36:45.760
+The effortless mastery is labeled System 1.
+
+36:46.040 --> 36:47.540
+But the middle part just vanishes.
+
+36:47.540 --> 36:55.700
+Right. But the intermediate points, the thousands of tiny mathematical improvements along that continuous slope, they absolutely existed.
+
+36:56.200 --> 36:58.300
+They were just unremarkable.
+
+36:58.660 --> 36:59.860
+So we threw the data away.
+
+37:00.440 --> 37:06.500
+We are constantly confusing the endpoints of a single continuum with a categorical difference in architecture.
+
+37:06.820 --> 37:09.480
+Here's where it gets really interesting for anyone listening.
+
+37:09.920 --> 37:13.700
+Think about how often you fall for this illusion of salience in your daily life.
+
+37:13.800 --> 37:14.380
+Oh, all the time.
+
+37:14.380 --> 37:22.000
+Have you ever looked at someone who is incredibly good at their job or maybe an amazing athlete and thought, wow, they are just a natural.
+
+37:22.360 --> 37:24.740
+They have such intuitive System 1 talent.
+
+37:25.000 --> 37:25.740
+We say that a lot.
+
+37:26.240 --> 37:31.060
+We assume they are operating on some effortless, gifted, cognitive machine that we don't possess.
+
+37:31.620 --> 37:34.920
+But what you are actually doing is falling for the salience error.
+
+37:35.140 --> 37:35.300
+Yep.
+
+37:35.300 --> 37:50.220
+You are seeing their 10,000th repetition and assuming it has a different biological origin simply because you completely missed the thousands of hours of grinding, deliberate, agonizingly slow practice they put in behind closed doors to get there.
+
+37:50.460 --> 37:53.820
+It completely changes how you view the concept of talent.
+
+37:53.820 --> 37:59.980
+It places the emphasis back on the history of the agent rather than magical, innate categories.
+
+38:00.760 --> 38:00.880
+Right.
+
+38:01.200 --> 38:07.560
+And that brings us to the most technical, but perhaps the most damning of the three illusions, the error of inference.
+
+38:08.080 --> 38:09.460
+The error of inference.
+
+38:10.080 --> 38:14.760
+This is where we have to look closely at the math of the histogram, which the text formalizes deeply.
+
+38:15.380 --> 38:16.120
+Okay, graphs.
+
+38:16.120 --> 38:20.580
+In cognitive science, researchers very frequently measure response times.
+
+38:21.160 --> 38:22.940
+How fast did the subject press the button?
+
+38:23.740 --> 38:30.700
+And very frequently, if you plot hundreds of those response times on a bar graph, you get what is called a bimodal distribution.
+
+38:31.400 --> 38:31.720
+Right.
+
+38:31.860 --> 38:34.340
+Bimodal meaning a graph with two big humps.
+
+38:34.520 --> 38:34.720
+Yes.
+
+38:34.720 --> 38:42.540
+You see a large cluster of really fast times grouped together on the left side of the graph and a large cluster of really slow times grouped together on the right side.
+
+38:42.540 --> 38:47.260
+And traditionally, for decades, researchers point to that two-humped graph and proudly say,
+
+38:47.360 --> 38:49.960
+Aha! Two humps equals two systems.
+
+38:50.100 --> 38:50.340
+They do.
+
+38:50.460 --> 38:54.240
+There is the fast machine and the slow machine, perfectly separated by the data.
+
+38:54.380 --> 38:56.980
+It seems like incontrovertible visual evidence.
+
+38:57.320 --> 38:57.840
+But it's not.
+
+38:58.100 --> 38:58.560
+Not at all.
+
+38:59.000 --> 39:05.920
+The mathematical derivation of the density function in the paper proves exactly why that assumption is statistically illiterate.
+
+39:06.140 --> 39:06.520
+Wow.
+
+39:06.520 --> 39:17.360
+The math unequivocally shows that a single, strictly decreasing, continuous learning mechanism can easily and naturally produce a bimodal distribution of response times.
+
+39:17.720 --> 39:20.860
+I really need you to explain this because it feels like a paradox.
+
+39:21.380 --> 39:30.200
+If the underlying practice curve is a perfectly smooth slope with no jumps, how on earth do you generate two completely distinct, separated humps of data?
+
+39:30.200 --> 39:36.540
+It has to do with how the density of practice counts interacts with the mathematical derivative of the cost function.
+
+39:36.920 --> 39:37.820
+Okay. Lost me a bit there.
+
+39:38.200 --> 39:41.060
+Let me try to translate this algebra into a visual landscape.
+
+39:41.340 --> 39:41.580
+Please.
+
+39:42.060 --> 39:45.680
+Imagine the continuous practice curve as a giant water slide at a theme park.
+
+39:45.940 --> 39:46.940
+A water slide. Got it.
+
+39:47.380 --> 39:53.020
+At the very top of the slide, when you have zero practice, the slide is incredibly steep, almost a vertical drop.
+
+39:53.380 --> 39:53.680
+Okay.
+
+39:53.680 --> 39:58.960
+Because it is so steep, your speed improves dramatically with just a tiny bit of forward motion.
+
+39:59.400 --> 40:03.980
+But as you travel further down the slide, as you gain more practice, it slowly flattens out.
+
+40:04.460 --> 40:10.160
+At the very bottom of the slide, when you have practiced a task thousands of times, it is almost completely flat.
+
+40:10.400 --> 40:11.740
+Because you've hit your physical limit.
+
+40:11.980 --> 40:15.840
+Exactly. Your speed barely changes at all, no matter how much more you practice.
+
+40:16.440 --> 40:21.420
+Okay. I am picturing a massive sweeping water slide that goes from vertical to totally flat.
+
+40:21.420 --> 40:26.980
+Now, imagine a massive population of people randomly distributed all along this slide.
+
+40:27.540 --> 40:29.320
+We are taking a snapshot of society.
+
+40:29.880 --> 40:30.140
+Okay.
+
+40:30.500 --> 40:36.580
+Because the top of the slide is so incredibly steep, people spend very little time in that medium speed zone in the middle.
+
+40:37.400 --> 40:41.960
+Gravity, or in this case the rapid rate of early learning, pushes them past the middle quickly.
+
+40:42.400 --> 40:43.740
+So nobody hangs out in the middle.
+
+40:44.040 --> 40:44.260
+Right.
+
+40:44.800 --> 40:48.220
+But because the bottom of the slide is perfectly flat, people bunch up there.
+
+40:48.520 --> 40:49.580
+They accumulate endlessly.
+
+40:49.900 --> 40:50.740
+Oh, I see it.
+
+40:50.740 --> 40:59.080
+So if you take a snapshot of where everyone is on the slide right now, you will see a big cluster of people who are just getting on at the top, the slow hump.
+
+40:59.500 --> 40:59.820
+Yes.
+
+41:00.060 --> 41:07.280
+And you will see a massive, crowded cluster of people who have reached the flat bottom and are just pooling there, the fast hump.
+
+41:07.500 --> 41:08.940
+That's the bimodal distribution.
+
+41:08.940 --> 41:17.900
+And there will be very few people in the steep middle section because the mathematics of the curve naturally pushes them out of that zone too fast to be heavily recorded.
+
+41:17.900 --> 41:20.180
+It is the exact same single slide.
+
+41:20.260 --> 41:23.500
+It is the exact same single continuous process.
+
+41:24.120 --> 41:30.140
+But the geometry of the learning curve naturally generates a two-humped histogram in the population data.
+
+41:30.400 --> 41:31.660
+That is wild.
+
+41:32.320 --> 41:35.200
+Therefore, the core takeaway of the error of inference is this.
+
+41:35.980 --> 41:40.500
+A bimodal graph of response times does not identify two systems.
+
+41:40.500 --> 41:46.260
+The distributional appearance of the data massively underdetermines the underlying architecture.
+
+41:46.260 --> 41:47.700
+That is just incredible.
+
+41:48.580 --> 42:00.120
+The primary visual proof that cognitive science has relied on for decades to push the dual process theory, these two-humped graphs, is actually completely compatible with a single system theory.
+
+42:00.500 --> 42:02.400
+The math literally predicts it.
+
+42:02.400 --> 42:05.120
+We have been misreading our own data.
+
+42:05.480 --> 42:06.060
+We really have.
+
+42:07.120 --> 42:14.700
+Now, to really prove that this single system amortization concept is structurally sound, the source text does something really modern and fascinating.
+
+42:15.120 --> 42:22.440
+It leaves human biology behind entirely and applies this psychological theory to cutting-edge artificial intelligence.
+
+42:22.820 --> 42:25.540
+This is a brilliant methodological pivot by the author.
+
+42:26.280 --> 42:27.860
+The human brain is a black box.
+
+42:28.660 --> 42:30.720
+We cannot easily see its internal mechanisms.
+
+42:31.040 --> 42:31.260
+Right.
+
+42:31.260 --> 42:37.440
+But by looking at machine learning, we can observe cognitive amortization with absolute structural transparency.
+
+42:38.200 --> 42:40.300
+We know exactly what the code is doing.
+
+42:40.500 --> 42:41.080
+There's no guessing.
+
+42:41.480 --> 42:41.840
+Exactly.
+
+42:42.540 --> 42:49.160
+The paper cites a highly relevant 2026 study by Lee and Wang, focusing on what are called typed decision models.
+
+42:49.680 --> 42:51.000
+Typed decision models.
+
+42:51.760 --> 42:57.560
+These are AI models specifically designed to choose among options, judge conditions, or assign scores.
+
+42:57.560 --> 43:06.380
+Interestingly, the authors of that specific AI paper explicitly named their creations System 1 models because they're so fast.
+
+43:06.600 --> 43:10.740
+And our source author, Flyxion, vehemently attacks that label.
+
+43:11.100 --> 43:12.520
+Strongly disagrees, yes.
+
+43:12.740 --> 43:19.700
+And they use the actual observable architecture of the AI to prove exactly why calling it System 1 is fundamentally misleading.
+
+43:19.700 --> 43:24.500
+So how does this typed decision AI architecture actually work under the hood?
+
+43:24.880 --> 43:26.200
+It relies entirely on caching.
+
+43:26.740 --> 43:28.420
+Caching like on a web browser?
+
+43:28.880 --> 43:29.120
+Yes.
+
+43:29.500 --> 43:33.340
+Which is the purest, most literal form of computational amortization.
+
+43:33.340 --> 43:42.340
+The model encodes a specific number of potential options, let's call that number K, into a mathematical vector, and it stores them in a local cache.
+
+43:43.140 --> 43:43.360
+Okay.
+
+43:43.520 --> 43:48.840
+It pre-computes the heavy computational lifting independently before any user ever types in a prompt.
+
+43:49.440 --> 43:54.640
+When a request actually comes in, the model doesn't have to evaluate everything from scratch.
+
+43:54.640 --> 44:00.920
+It just references the stored entries in its cache, refines the state based on the prompt, and spits out the answer.
+
+44:01.760 --> 44:11.400
+The paper introduces an equation here to track how the computational cost shifts, using the Greek letter rho to represent the exact fraction of options that are already cached.
+
+44:11.640 --> 44:12.660
+Right. The rho factor.
+
+44:12.980 --> 44:13.980
+Let's make this conceptual.
+
+44:14.520 --> 44:22.060
+If rho is zero, meaning absolutely nothing is cached, every single option has to be computed completely fresh when the request arrives.
+
+44:22.060 --> 44:25.500
+That is the slow, expensive, heavy mode.
+
+44:26.300 --> 44:36.180
+But if rho is one, meaning 100% of the necessary options are already safely stored in the cache, the model only has to do a tiny bit of request-specific sorting.
+
+44:36.700 --> 44:40.300
+That is the blindingly fast, seemingly intuitive mode.
+
+44:40.580 --> 44:43.280
+And here is the critical structural insight.
+
+44:43.800 --> 44:47.060
+The cost shift in this model is perfectly mathematically linear.
+
+44:47.780 --> 44:48.100
+Linear.
+
+44:48.100 --> 44:52.040
+As rho increases, the cost drops proportionally.
+
+44:52.060 --> 44:53.100
+There is no sudden jump.
+
+44:53.200 --> 44:57.000
+There is no architectural switch being flipped inside the AI.
+
+44:57.740 --> 44:58.120
+Ah.
+
+44:58.120 --> 45:01.040
+When the model is slow, rho equals zero.
+
+45:01.540 --> 45:03.580
+And when it is fast, rho equals one.
+
+45:04.280 --> 45:06.420
+It is the exact same model.
+
+45:06.540 --> 45:07.700
+The exact same model.
+
+45:07.920 --> 45:10.080
+It is utilizing the exact same neural weights.
+
+45:10.400 --> 45:12.100
+It is running the exact same procedure.
+
+45:12.100 --> 45:17.060
+And it is producing the exact same outputs in exact arithmetic.
+
+45:17.060 --> 45:20.560
+The only thing that changes is the parameter rho.
+
+45:21.020 --> 45:23.220
+How much of the work was pre-computed?
+
+45:23.220 --> 45:26.620
+This reminds me of doing a massive jigsaw puzzle.
+
+45:26.820 --> 45:27.340
+Oh, how so?
+
+45:27.580 --> 45:29.540
+Imagine you buy a thousand-piece puzzle.
+
+45:30.100 --> 45:34.760
+If you open the box and dump it randomly on the table, it is going to take you hours to solve.
+
+45:34.960 --> 45:37.080
+Every piece requires deliberate evaluation.
+
+45:37.360 --> 45:37.560
+Right.
+
+45:37.700 --> 45:39.100
+That is rho equals zero.
+
+45:39.260 --> 45:39.920
+It is slow.
+
+45:39.920 --> 45:52.120
+But imagine if, before you opened the box, a friend had secretly gone in and pre-sorted all the edge pieces, grouped all the blue sky pieces together, and literally linked all the major character sections for you.
+
+45:52.140 --> 45:52.740
+That's a good friend.
+
+45:53.020 --> 45:53.280
+Right.
+
+45:53.800 --> 45:56.620
+When you open the box, you just snap the pre-built chunks together.
+
+45:56.940 --> 45:58.900
+You finish the puzzle in five minutes.
+
+45:59.320 --> 46:00.440
+That is rho equals one.
+
+46:00.700 --> 46:01.820
+It is incredibly fast.
+
+46:02.380 --> 46:03.500
+A perfect analogy.
+
+46:03.920 --> 46:04.760
+But here is the point.
+
+46:04.980 --> 46:09.620
+Finishing the puzzle faster doesn't mean you magically turned into a different type of puzzle solver.
+
+46:09.620 --> 46:10.420
+You didn't evolve.
+
+46:10.680 --> 46:14.200
+You didn't swap your brain out for a magical System 1 intuition brain.
+
+46:14.440 --> 46:16.760
+You just had the work pre-computed for you.
+
+46:16.900 --> 46:17.280
+Exactly.
+
+46:17.760 --> 46:22.600
+The label System 1 implies a category-goal difference in the fundamental mechanism of thought.
+
+46:23.180 --> 46:31.400
+But the cached AI architecture mathematically proves that low latency, blazing speed, can come purely from the cache.
+
+46:31.760 --> 46:33.920
+From just having done the work already.
+
+46:34.140 --> 46:37.080
+Which is a property of cost history, not a separate mechanism.
+
+46:37.080 --> 46:46.480
+Calling it a cognitive system, that's a false scientific commitment that the category exists independently of the caching that made it cheap in the first place.
+
+46:46.860 --> 46:54.140
+But caching exact answers like a giant lookup table or pre-sorting puzzle pieces is only one way to get faster.
+
+46:54.140 --> 46:54.580
+True.
+
+46:54.840 --> 46:57.080
+What if the task is novel every time?
+
+46:57.360 --> 47:01.220
+A jigsaw puzzle is always the exact same picture, but real life isn't like that.
+
+47:01.700 --> 47:07.160
+Can practice build something more complex, more adaptable than just a static lookup table?
+
+47:07.740 --> 47:10.180
+Because human beings clearly generalize their skills.
+
+47:10.400 --> 47:10.760
+Exactly.
+
+47:11.280 --> 47:12.980
+We adapt to new situations constantly.
+
+47:13.400 --> 47:16.820
+This is a vital question because it blocks a major potential critique.
+
+47:16.820 --> 47:23.920
+Someone could read the first case study about caching and say, okay, so practice is just memorization.
+
+47:24.980 --> 47:27.280
+System 1 is just a dumb lookup table.
+
+47:27.800 --> 47:29.160
+Right, which isn't true for humans.
+
+47:29.500 --> 47:33.780
+But as you noted, human cognition is infinitely more flexible than that.
+
+47:34.280 --> 47:44.900
+To address this, the paper cites a second groundbreaking 2026 AI study by Wang et al, focusing on progress-aligned recurrence models, or PAR.
+
+47:44.900 --> 47:46.920
+Progress-aligned recurrence.
+
+47:47.180 --> 47:47.340
+PAR.
+
+47:48.020 --> 47:51.700
+This model proves that practice doesn't just store static answers.
+
+47:52.120 --> 47:55.860
+It can actually compile highly adaptable, reusable procedures.
+
+47:56.360 --> 48:02.860
+Let's set up the experiment from the text because the performance statistics on this PAR model are absolutely mind-blowing.
+
+48:03.000 --> 48:03.560
+They really are.
+
+48:04.020 --> 48:10.240
+The researchers took a standard, pre-trained language model and gave it complex, sequential state-tracking tasks.
+
+48:10.240 --> 48:16.800
+The specific example they use is a game where you follow a series of items being randomly swapped among five different boxes.
+
+48:17.160 --> 48:17.920
+Kind of like a shell game.
+
+48:18.180 --> 48:19.700
+Yes, exactly like a shell game.
+
+48:20.340 --> 48:26.240
+At the very end of the sequence, the model has to answer which specific item ended up in a specific box.
+
+48:26.680 --> 48:29.560
+It requires holding and updating a working memory state.
+
+48:29.820 --> 48:29.940
+Right.
+
+48:30.520 --> 48:36.620
+The researchers train the model to do this by repeating a block of its neural layers a variable number of times, letting it iterate.
+
+48:36.620 --> 48:39.940
+And the extrapolation metrics are astounding.
+
+48:40.340 --> 48:40.920
+Tell me about it.
+
+48:41.120 --> 48:45.760
+They explicitly trained a small model on sequences that were at most 32 moves long.
+
+48:46.160 --> 48:49.600
+It never saw a sequence longer than 32 during its learning phase.
+
+48:49.720 --> 48:49.880
+Okay.
+
+48:50.240 --> 49:02.960
+But when they tested that model on sequences that were 512 moves long, which is 16 times longer than anything it had ever encountered, it achieved 95.5% full state accuracy.
+
+49:02.960 --> 49:09.260
+Wait, really? 16 times longer? That is massive generalization.
+
+49:09.720 --> 49:16.840
+To put that achievement in context, the best prior recurrent AI method only hit 55.7% on that same task.
+
+49:17.020 --> 49:17.940
+That's a huge leap.
+
+49:18.200 --> 49:27.660
+And an explicit chain of thought method, where the model writes out its reasoning step by step, utterly collapsed at 0.8% accuracy on the same backbone.
+
+49:27.880 --> 49:28.960
+Less than 1%.
+
+49:28.960 --> 49:36.600
+So this PAR model absolutely crushed the traditional methods, but why did it work so incredibly well?
+
+49:36.740 --> 49:42.880
+What is the secret structural sauce here that allows a model to generalize so wildly beyond its training?
+
+49:43.360 --> 49:50.960
+The author identifies two critical mechanisms that made this possible, and both align perfectly with the theory of single-system amortized deliberation.
+
+49:50.960 --> 49:51.960
+Okay.
+
+49:52.240 --> 49:57.800
+First, the model rescaled its recurrent state to a fixed norm after every single iteration.
+
+49:58.060 --> 50:03.060
+Okay, we need to translate that. What does rescaling to a fixed norm mean in plain English?
+
+50:03.400 --> 50:05.760
+Imagine you are walking through a dense forest with a compass.
+
+50:06.100 --> 50:06.920
+Okay, I have my compass.
+
+50:07.380 --> 50:14.080
+If your compass gets slightly knocked off by a fraction of a degree every time you take a step, after 10 steps you're fine.
+
+50:14.080 --> 50:18.660
+But after 500 steps, you are miles away from your destination.
+
+50:19.200 --> 50:20.580
+Because the error compounds.
+
+50:20.920 --> 50:21.340
+Exactly.
+
+50:22.480 --> 50:31.860
+Rescaling to a fixed norm is essentially the AI forcing itself to stop, recalibrate its internal compass, and return to true north after every single step.
+
+50:32.380 --> 50:32.880
+Oh, wow.
+
+50:33.680 --> 50:37.940
+It prevents the internal mathematical representations from drifting in scale.
+
+50:37.940 --> 50:46.960
+The text notes that without this reset mechanism, the model's extrapolation capability crashed from a factor of 16 down to below 2.2.
+
+50:47.380 --> 50:48.300
+So it's essential.
+
+50:48.820 --> 50:57.320
+By anchoring the norm, the model ensured that the repeated transformation actually computed a stable, indefinitely reusable procedure.
+
+50:57.600 --> 50:58.840
+That makes so much sense.
+
+50:59.340 --> 51:01.980
+It keeps the thought process from degrading.
+
+51:02.740 --> 51:06.840
+The second mechanism was the use of progress-aligned targets during training.
+
+51:06.840 --> 51:09.080
+Progress-aligned targets.
+
+51:09.500 --> 51:20.160
+Instead of just rewarding the model for getting the final answer right at the very end, each iteration of the model was trained to precisely predict the state after a specific number of operations.
+
+51:20.480 --> 51:24.000
+It gave every step a defined, measurable milestone.
+
+51:24.340 --> 51:24.740
+Exactly.
+
+51:25.260 --> 51:33.720
+It forced the model to learn a modular, discrete skill of updating the state once, rather than trying to memorize a holistic path.
+
+51:33.720 --> 51:37.780
+This highlights something really important about how we think.
+
+51:38.220 --> 51:45.880
+I noticed that this PAR model is doing all of this incredibly deep, extended computation without externalizing text.
+
+51:46.160 --> 51:46.480
+That's right.
+
+51:46.700 --> 51:50.820
+It isn't generating a long, chain-of-thought paragraph to talk itself through the problem.
+
+51:50.820 --> 52:00.280
+When I am solving a hard problem, I often feel like I need to literally talk to myself out loud or write things down on a whiteboard just to keep track of my thoughts.
+
+52:00.380 --> 52:01.000
+Most people do.
+
+52:01.400 --> 52:08.100
+But this proves that extended, deep computational reasoning doesn't actually require that externalization.
+
+52:08.600 --> 52:12.000
+This is a major point of contention in current AI research.
+
+52:12.260 --> 52:14.720
+The explicit chain-of-thought model collapsed.
+
+52:15.200 --> 52:18.520
+The PAR model succeeded entirely internally.
+
+52:18.520 --> 52:32.080
+The text uses this to emphasize that externalization, writing it down or speaking it out loud, is neither what makes extended computation possible nor what distinguishes it as a higher form of thought.
+
+52:33.360 --> 52:38.420
+Practice in this context is the acquisition of internal computational competence.
+
+52:39.060 --> 52:46.640
+It is learning a robust procedure that can be seamlessly looped and applied iteratively, far beyond the bounds of the original training data.
+
+52:46.640 --> 52:53.960
+It is an integer-valued, variable depth of computation, completely divorced from the need to narrate the process.
+
+52:54.640 --> 53:03.480
+And there is a fascinating, almost paradoxical quirk in this experiment that the paper brings up, dealing with what we could call the halting problem.
+
+53:03.800 --> 53:04.040
+Yes.
+
+53:04.280 --> 53:12.640
+This is perhaps one of the most profound behavioral observations in the entire deep dive, and it has massive implications for human psychology.
+
+53:13.060 --> 53:13.840
+What did they find?
+
+53:13.840 --> 53:22.840
+The researchers found that the PAR models would calculate perfectly, and answer correctly, right at the matching iteration for the problem length.
+
+53:23.240 --> 53:23.480
+Okay.
+
+53:23.780 --> 53:30.380
+So if the problem was 100 steps, at step 100, the AI had the perfect answer in its working memory.
+
+53:30.540 --> 53:30.980
+Exactly.
+
+53:31.700 --> 53:41.900
+But if the model was allowed to keep running beyond that point, if it just kept iterating its procedure after it had already found the answer, its accuracy degraded rapidly.
+
+53:42.620 --> 53:43.100
+Wait, what?
+
+53:43.100 --> 53:46.640
+It would overwrite its own correct solution with garbage.
+
+53:47.240 --> 53:52.580
+So getting the answer and keeping the answer are two entirely different cognitive achievements?
+
+53:53.000 --> 53:53.840
+That is wild.
+
+53:54.020 --> 53:54.500
+Precisely.
+
+53:55.300 --> 53:59.420
+A correct answer does not simply persist by default in a dynamic system.
+
+53:59.720 --> 54:00.020
+Wow.
+
+54:00.540 --> 54:05.840
+Because of this massive degradation, the AI required a heavily trained stopping rule.
+
+54:06.500 --> 54:09.960
+It had to learn a specific halting signal to know when to quit computing.
+
+54:10.380 --> 54:12.280
+Did they figure out what rule worked best?
+
+54:12.280 --> 54:21.340
+The best rule they found required six out of eight consecutive iterations to confirm completion before the model would finalize its output and stop.
+
+54:21.760 --> 54:21.780
+Okay.
+
+54:21.860 --> 54:23.440
+So it had to double-check itself, basically.
+
+54:23.980 --> 54:30.340
+With that gridget halting rule, it maintained nearly 93% accuracy at 16 times the length.
+
+54:30.340 --> 54:36.240
+Without the halting rule, the model would inevitably overcompute and destroy its own perfectly correct answer.
+
+54:36.240 --> 54:43.040
+We are absolutely going to come back to that idea of overcomputing in a moment because the human implications of that are staggering.
+
+54:43.200 --> 54:43.640
+They really are.
+
+54:44.040 --> 54:47.040
+But right now, we have reached a critical juncture in the source material.
+
+54:47.600 --> 54:58.620
+We have used formal logical proofs, human psychological history, and cutting-edge transparent AI architectures to completely dismantle the system one and system two binary.
+
+54:58.620 --> 54:59.660
+The old model is broken.
+
+55:00.360 --> 55:03.600
+We have shown that speed is totally dependent on history.
+
+55:04.080 --> 55:07.820
+We have shown that continuous practice curves don't have magic thresholds.
+
+55:08.000 --> 55:13.200
+We have shown that single systems can mechanically route themselves and naturally produce two-humped graphs.
+
+55:13.480 --> 55:13.720
+Yes.
+
+55:13.720 --> 55:20.780
+So if we are throwing out this old, comfortable vocabulary, how should we actually talk about thinking from now on?
+
+55:20.820 --> 55:22.540
+If I can't say system one, what do I say?
+
+55:23.220 --> 55:30.760
+The author concludes that we need to abandon the simplistic binary entirely and adopt a far more rigorous set of distinguishable dimensions.
+
+55:31.120 --> 55:31.480
+Dimensions.
+
+55:32.260 --> 55:32.580
+Yes.
+
+55:33.260 --> 55:36.920
+We can no longer lazily say a thought is just fast or slow.
+
+55:36.920 --> 55:42.520
+We need to evaluate the thought process across three specific continuous families of metrics.
+
+55:43.280 --> 55:46.520
+History, execution, and access.
+
+55:47.060 --> 55:50.780
+Let's break these dimensional families down one by one, starting with history.
+
+55:51.260 --> 55:53.980
+What are the specific dimensions we should be measuring here?
+
+55:54.840 --> 55:56.640
+The first dimension of history is straightforward.
+
+55:57.020 --> 55:59.560
+The absolute number of prior episodes.
+
+55:59.760 --> 56:00.860
+How many times I've done it.
+
+56:00.860 --> 56:07.520
+Exactly. How many times, mathematically, has this specific agent encountered this specific task over their lifetime?
+
+56:08.000 --> 56:11.020
+This maps to the n variable in our power log equation.
+
+56:11.140 --> 56:11.820
+Okay. Got it.
+
+56:12.220 --> 56:16.960
+The second dimension is the structural distance to the nearest stored case.
+
+56:17.720 --> 56:25.740
+If you encounter a problem that is completely novel, how structurally close is it to something you have successfully solved before?
+
+56:25.960 --> 56:26.840
+Okay. That makes sense.
+
+56:26.840 --> 56:33.220
+And crucially, does that old stored result carry a logical warrant that actually applies to the new situation?
+
+56:33.520 --> 56:36.200
+That is the pantry check from the lasagna analogy.
+
+56:36.400 --> 56:37.580
+Exactly. The pantry check.
+
+56:37.760 --> 56:37.960
+Okay.
+
+56:38.500 --> 56:42.740
+And the third dimension of history deals with this specific form of the competence.
+
+56:43.580 --> 56:44.360
+The form.
+
+56:44.820 --> 56:45.100
+Yes.
+
+56:45.600 --> 56:51.960
+Is the practice skill stored merely as static individual instances, like caching answers in the lookup table?
+
+56:51.960 --> 56:57.860
+Or has the agent compiled it into a dynamic, reusable procedure, like the PAR model?
+
+56:58.640 --> 57:03.400
+Okay. So history covers how our past shapes the physical architecture of the thought.
+
+57:03.940 --> 57:05.920
+The second family is execution.
+
+57:06.400 --> 57:07.820
+This one seems a bit more straightforward.
+
+57:08.380 --> 57:08.700
+It is.
+
+57:09.100 --> 57:16.440
+The parameter for execution is simply the actual measurable depth of computation applied to the present task in the moment.
+
+57:16.440 --> 57:19.440
+So just how hard the brain is working right now.
+
+57:19.620 --> 57:19.820
+Yes.
+
+57:20.340 --> 57:27.900
+How many iterations, how much raw metabolic or computational resource is being actively expended right now to resolve the problem in front of you.
+
+57:28.180 --> 57:34.480
+But the third family, access, is where I think this new dimensional vocabulary really shines and proves its worth.
+
+57:34.720 --> 57:35.120
+Oh, definitely.
+
+57:35.120 --> 57:43.740
+Because this replaces all the messy, highly subjective, incredibly vague talk about consciousness and awareness that plagued the old dual process theory.
+
+57:44.380 --> 57:47.840
+The paper breaks access down into three distinct measurable subtypes.
+
+57:48.260 --> 57:52.200
+And distinguishing these subtypes is crucial for moving cognitive science forward.
+
+57:52.500 --> 57:53.060
+Let's hear them.
+
+57:53.420 --> 57:56.720
+The first subtype of access is externalization.
+
+57:57.280 --> 57:59.840
+This simply asks an observable question.
+
+57:59.840 --> 58:07.140
+Are the intermediate states of the computation written down into a physical context where they can be re-read by the agent?
+
+58:07.840 --> 58:08.860
+So like taking notes.
+
+58:09.100 --> 58:09.280
+Yes.
+
+58:09.500 --> 58:12.060
+This could literally be writing math on a piece of paper.
+
+58:12.300 --> 58:18.360
+Or it could be generating an internal phonological verbal monologue that you listen to in your head.
+
+58:18.960 --> 58:20.180
+Oh, talking to yourself counts.
+
+58:20.460 --> 58:20.720
+Yes.
+
+58:21.260 --> 58:23.980
+The second subtype is decodability.
+
+58:24.440 --> 58:25.040
+Decodability.
+
+58:25.380 --> 58:25.680
+Correct.
+
+58:25.680 --> 58:33.500
+Decodability asks, can the intermediate states of the cognitive process be recovered or read by an external trained system?
+
+58:34.100 --> 58:35.680
+That sounds like mind reading.
+
+58:36.040 --> 58:46.380
+Well, in the AI models we discussed, decodability is guaranteed by the architecture because the training objective mathematically forces the latent states to be readable by linear probes.
+
+58:46.640 --> 58:47.600
+Right, because it's software.
+
+58:48.000 --> 58:48.300
+Exactly.
+
+58:48.860 --> 58:50.960
+In a human brain, decodability is much harder.
+
+58:50.960 --> 58:58.920
+It might refer to whether a highly advanced fMRI machine could theoretically track the physical progression of the neural state over time.
+
+58:59.180 --> 58:59.980
+That is fascinating.
+
+59:00.340 --> 59:04.200
+And the third, and perhaps most human subtype, is reporting.
+
+59:04.440 --> 59:04.720
+Yes.
+
+59:04.920 --> 59:05.220
+Reporting.
+
+59:05.940 --> 59:06.660
+What does that entail?
+
+59:07.300 --> 59:12.200
+Reporting asks, does the agent actively produce a narrative account of its own internal process?
+
+59:12.600 --> 59:14.500
+Basically, can you explain what you just did?
+
+59:14.500 --> 59:14.840
+Right.
+
+59:15.160 --> 59:19.040
+And the text includes a vital, heavily emphasized caveat here.
+
+59:19.500 --> 59:23.700
+The reported account, produced by the human, might not even be accurate.
+
+59:23.780 --> 59:25.120
+Oh, we lie to ourselves.
+
+59:25.560 --> 59:30.220
+It need not correspond in any meaningful way to what was actually computed mechanically.
+
+59:30.680 --> 59:34.840
+We often invent stories to explain our own fast responses after the fact.
+
+59:35.340 --> 59:37.700
+This separation of dimensions is brilliant.
+
+59:38.220 --> 59:42.560
+It explains so much about human behavior that the old binary system completely failed to capture.
+
+59:42.560 --> 59:44.160
+It's a much richer vocabulary.
+
+59:44.880 --> 59:46.460
+For instance, think about athletes again.
+
+59:47.080 --> 59:51.140
+You can have a thought process that has an incredibly high execution depth.
+
+59:51.560 --> 59:57.180
+A quarterback is working really hard, processing the spatial movement of 22 different players in a fraction of a second.
+
+59:57.820 --> 01:00:03.060
+But that thought process has absolutely zero externalization and very low reporting.
+
+01:00:03.400 --> 01:00:03.820
+Exactly.
+
+01:00:04.500 --> 01:00:09.540
+The quarterback cannot explain to you, in words, how he calculated the trajectory of the throw.
+
+01:00:09.720 --> 01:00:10.500
+He just threw it.
+
+01:00:10.600 --> 01:00:10.840
+Right.
+
+01:00:10.840 --> 01:00:18.960
+Under the old System 1 and System 2 model, that kind of incredibly deep but unreportable thought completely broke the categorization.
+
+01:00:19.460 --> 01:00:25.820
+The old model lazily assumed that if you were working hard on a problem, you must be consciously aware and able to verbally explain it.
+
+01:00:26.000 --> 01:00:27.220
+And we know that's not true.
+
+01:00:27.440 --> 01:00:27.620
+Right.
+
+01:00:28.360 --> 01:00:35.680
+This new dimensional vocabulary cleanly separates the raw computational depth of the work from your social ability to talk about it.
+
+01:00:35.680 --> 01:00:38.220
+The author's summary statement wraps this up perfectly.
+
+01:00:38.500 --> 01:00:39.160
+What's the bottom line?
+
+01:00:39.600 --> 01:00:45.820
+Cost, automaticity, and reportability do not, by themselves, establish cognitive kinds.
+
+01:00:46.060 --> 01:00:46.320
+Okay.
+
+01:00:46.720 --> 01:00:55.300
+You cannot point to a fast, silent thought and scientifically claim it is a fundamentally different species of biology than a slow, verbalized one.
+
+01:00:55.680 --> 01:00:56.820
+They're all the same biology.
+
+01:00:56.820 --> 01:01:09.540
+Explaining the vast variation in human thought requires a full, rigorous account of learning history, internal representation, computational execution, and structural reuse.
+
+01:01:10.000 --> 01:01:10.300
+Wow.
+
+01:01:10.300 --> 01:01:23.100
+The vocabulary of two systems, if we decide to keep it at all for conversational convenience, should strictly only be used as a casual shorthand for the extreme absolute ends of the continuous practice axis.
+
+01:01:23.200 --> 01:01:23.340
+Okay.
+
+01:01:23.460 --> 01:01:25.620
+So just shorthand, not a real mechanism.
+
+01:01:25.900 --> 01:01:26.140
+Right.
+
+01:01:26.340 --> 01:01:26.500
+Yeah.
+
+01:01:26.700 --> 01:01:34.000
+It implies no actual mechanism of sorting, and it absolutely unequivocally cannot be read off from speed alone.
+
+01:01:34.000 --> 01:01:38.840
+And that profound paradigm shift brings us to the end of this incredible text.
+
+01:01:39.040 --> 01:01:39.660
+It's been a journey.
+
+01:01:40.040 --> 01:01:46.660
+I want to sincerely thank you, the listener, for coming on this really intensive, demanding intellectual journey with us today.
+
+01:01:46.980 --> 01:01:54.760
+The formal logic, the artificial intelligence architectures, the mathematical curves, it is heavy, complex material.
+
+01:01:55.000 --> 01:01:58.140
+But it completely changes how you view your own mind.
+
+01:01:58.360 --> 01:01:59.600
+It really reframes everything.
+
+01:01:59.600 --> 01:02:08.580
+The next time someone at work or a friend at a dinner party claims they just had a system one, intuitive reaction to something, you will know the secret.
+
+01:02:09.240 --> 01:02:13.780
+You will know that it wasn't some primitive, separate reptilian brain magically taking over.
+
+01:02:14.000 --> 01:02:14.500
+Not at all.
+
+01:02:14.940 --> 01:02:22.340
+It was actually just a heavily amortized deliberation, born from their own unique, extensive history of practice and cached evaluations.
+
+01:02:22.780 --> 01:02:26.320
+It is an incredibly empowering way to view your own capacity for learning.
+
+01:02:26.620 --> 01:02:27.620
+I completely agree.
+
+01:02:27.620 --> 01:02:33.320
+You are not trapped by a rigid, dual architecture where some things are forever relegated to a slow brain.
+
+01:02:34.020 --> 01:02:38.360
+You are a single, beautifully continuous system, constantly optimizing its own past effort.
+
+01:02:38.600 --> 01:02:39.520
+That's a great way to put it.
+
+01:02:40.100 --> 01:02:47.380
+But before we sign off, I want to leave you with a final thought to mull over, drawing on something we discussed in the AI recurrence section.
+
+01:02:47.480 --> 01:02:48.540
+Oh, the halting problem.
+
+01:02:48.700 --> 01:02:49.100
+Yes.
+
+01:02:49.100 --> 01:03:05.560
+Remember the halting problem, the fact that the PAR-AI model could perfectly solve a complex problem, but if it didn't possess a rigidly trained stopping rule, it would keep iterating, compute right past the correct answer, and degrade its state into total failure.
+
+01:03:05.560 --> 01:03:12.180
+Yes, the realization that getting the answer and keeping the answer are entirely different skills.
+
+01:03:12.540 --> 01:03:16.400
+Think about that exact mechanism in the context of your own daily life.
+
+01:03:16.620 --> 01:03:18.140
+Oh, I see where this is going.
+
+01:03:18.140 --> 01:03:34.220
+How many times have you faced a complex situation, maybe a difficult relationship issue, a strategic career choice, or a creative project, and you actually reasoned your way to a perfectly good, highly functional, correct solution relatively early on?
+
+01:03:34.560 --> 01:03:35.500
+And then ruined it.
+
+01:03:35.700 --> 01:03:35.960
+Right.
+
+01:03:35.960 --> 01:03:42.060
+Because human beings often lack a rigorous cognitive halting rule, you didn't stop computing.
+
+01:03:42.800 --> 01:03:43.580
+You kept iterating.
+
+01:03:43.920 --> 01:03:45.260
+You kept analyzing the variables.
+
+01:03:45.720 --> 01:03:46.880
+The dreaded overthinking.
+
+01:03:47.200 --> 01:03:47.600
+Exactly.
+
+01:03:48.180 --> 01:03:51.800
+You engaged in what we casually, destructively call overthinking.
+
+01:03:52.360 --> 01:04:04.500
+And by continuing to apply deep computational execution to a problem that was already functionally solved, you actually degraded your own perfectly good solution into a state of severe anxiety, paralysis, and confusion.
+
+01:04:04.500 --> 01:04:05.840
+That is so true.
+
+01:04:06.620 --> 01:04:14.320
+Perhaps the most important advanced cognitive skill we can develop isn't just learning how to deliberate deeply, but learning exactly when to stop.
+
+01:04:15.160 --> 01:04:17.980
+What a phenomenal, unsettling thought to end on.
+
+01:04:18.600 --> 01:04:23.860
+Remember, keeping an open, rigorously curious mind is the absolute greatest tool you have.
+
+01:04:24.360 --> 01:04:26.180
+Thank you for taking the deep dive with us today.
+

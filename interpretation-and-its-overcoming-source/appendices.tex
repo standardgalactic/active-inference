@@ -1,0 +1,71 @@
+\chapter{Variational Free Energy and Expected Free Energy}
+
+\section*{Variational free energy}
+
+Let $p(o,s)$ be a generative model and $q(s)$ an approximate posterior. The variational free energy is
+\[
+F[q;o]=\E_{q(s)}\!\left[\log q(s)-\log p(o,s)\right].
+\]
+Since $p(o,s)=p(s\mid o)\,p(o)$, the logarithm of the joint splits as $\log p(s\mid o)+\log p(o)$. Substituting, and noting that $\log p(o)$ does not depend on $s$,
+\[
+F[q;o]=\E_{q(s)}\!\left[\log q(s)-\log p(s\mid o)\right]-\log p(o)=\KL\!\left(q(s)\,\|\,p(s\mid o)\right)-\log p(o).
+\]
+Because $\KL\ge 0$ with equality if and only if $q=p(\cdot\mid o)$, it follows that $F\ge-\log p(o)$, and minimizing $F$ over $q$ yields the exact posterior whenever the family of $q$ contains it. When the family is restricted, the minimizer is the member of the family closest to the posterior in the sense of $\KL$, and $F$ at the minimum is a tighter or looser bound on the surprise accordingly. The bound is always relative to the generative model $p$.
+
+\section*{Expected free energy and its two decompositions}
+
+For a policy $\pi$ write $q(o,s\mid\pi)=q(s\mid\pi)\,p(o\mid s)$ for the predicted joint, let $p(o)$ encode preferred outcomes, and let $q(s\mid o,\pi)$ denote the posterior that would follow from observing $o$ under $\pi$. Define
+\[
+G(\pi)=\E_{q(o,s\mid\pi)}\!\left[\log q(s\mid\pi)-\log p(o)-\log q(s\mid o,\pi)\right].
+\]
+Grouping the first and third terms gives the negative expected information gain, since
+\begin{align*}
+\E_{q(o,s\mid\pi)}\!\left[\log q(s\mid\pi)-\log q(s\mid o,\pi)\right]
+&=-\E_{q(o\mid\pi)}\!\left[\KL\!\left(q(s\mid o,\pi)\,\|\,q(s\mid\pi)\right)\right]\\
+&=-\mathrm{IG}(\pi).
+\end{align*}
+Hence
+\[
+G(\pi)=-\mathrm{IG}(\pi)-\E_{q(o\mid\pi)}\!\left[\log p(o)\right],
+\]
+the sum of an expected cost, measured by the negative log preference of predicted outcomes, and an epistemic term that rewards expected resolution of uncertainty. The information gain equals the mutual information between states and observations under the predicted joint, so that
+\[
+\mathrm{IG}(\pi)=\mathrm{H}\!\left[q(o\mid\pi)\right]-\E_{q(s\mid\pi)}\!\left[\mathrm{H}\!\left[p(o\mid s)\right]\right].
+\]
+Substituting and using $\KL\!\left(q(o\mid\pi)\,\|\,p(o)\right)=-\mathrm{H}[q(o\mid\pi)]-\E_{q(o\mid\pi)}[\log p(o)]$ yields the second form used in Chapter~5,
+\[
+G(\pi)=\KL\!\left(q(o\mid\pi)\,\|\,p(o)\right)+\E_{q(s\mid\pi)}\!\left[\mathrm{H}\!\left[p(o\mid s)\right]\right],
+\]
+a risk term plus an ambiguity term. Both forms contain $p(o)$, which is stipulated and not derived, and this is the formal location of the difficulty examined in Chapter~12.
+
+\chapter{Coarse-Graining and Task-Relative Sufficiency}
+
+Recall the definition of Chapter~2. For a task $T$ with loss $\ell(a,x)$ over actions $a$ and states $x\in X$, and a distribution over $X$, let $R_X$ denote the least expected loss over policies that may depend on $x$, and let $R_\phi$ denote the least expected loss over policies that depend on $x$ only through $\phi(x)$. The organization $\phi$ is $\varepsilon$-sufficient for $T$ if $R_\phi-R_X\le\varepsilon$. Since policies depending on $\phi(x)$ are a subset of those depending on $x$, $R_\phi\ge R_X$ always.
+
+\begin{proposal}
+If the loss depends on $x$ only through $\phi(x)$, that is $\ell(a,x)=\tilde\ell(a,\phi(x))$ for some $\tilde\ell$, then $\phi$ is $0$-sufficient.
+\end{proposal}
+
+\begin{proof}
+Take any policy $\pi_X$ depending on $x$. For each value $z$ in the range of $\phi$, the loss is constant across the fibre $\phi^{-1}(z)$ for any fixed action, so the expected loss of $\pi_X$ is a mixture of fibre-wise losses and is minimized by choosing in each fibre the action that minimizes $\tilde\ell(\cdot,z)$ averaged over the within-fibre distribution of $\pi_X$'s choices. That action depends on $x$ only through $z=\phi(x)$, so a policy depending only on $\phi(x)$ attains the same minimum.
+\end{proof}
+
+An example shows the fragility discussed in Chapter~2. Let $X=\mathbb{R}^2$ with coordinates $(a,b)$ and let $\phi(a,b)=a$. For a task whose loss is $(u-a)^2$, where $u$ is the action, $\phi$ is $0$-sufficient, because the best policy is $u=a$ and requires nothing about $b$. If the task changes to the loss $(u-a-b)^2$, the best policy using $\phi$ alone is $u=a+\E[b\mid a]$, whose excess loss over the best policy $u=a+b$ is, conditionally on $a$, $\mathrm{Var}(b\mid a)$. The overall excess expected loss is therefore $R_\phi-R_X=\E[\mathrm{Var}(b\mid a)]$, assuming the second moments exist. The map $\phi$ is unchanged, and its sufficiency has passed from zero to the expected conditional variance of the discarded coordinate.
+
+\chapter{An Example of Structural Revision}
+
+Let the observations be $y_t=A\sin(\omega t)+\eta_t$, with independent noise $\eta_t$ of variance $\sigma^2$, and let the admissible family $\mathcal{M}_1$ consist of linear trends $y_t=\alpha+\beta t$. Over a long record spanning many periods, the least-squares fit within $\mathcal{M}_1$ converges to a nearly constant line at the mean, and the residual variance converges to $\sigma^2+A^2/2$, because the oscillation contributes mean square $A^2/2$ that no member of the family can represent. No amount of parameter learning within $\mathcal{M}_1$ lowers the residual below this value, and the persistent excess over the noise floor $\sigma^2$ is the signal of Chapter~9 that the family omits structure.
+
+The extended family $\mathcal{M}_2$ adds a sinusoidal component with free amplitude, frequency and phase. Within $\mathcal{M}_2$ the residual variance approaches $\sigma^2$. Under squared-error loss the per-period reduction in expected loss from moving to $\mathcal{M}_2$ is $\Delta L=A^2/2$, so the criterion $\E[\Delta L]\,H>c$ of Chapter~9 reads $A^2H/2>c$. The example exhibits the pattern in a transparent case. The residual diagnoses the lack, comparison of marginal likelihoods ranks $\mathcal{M}_2$ above $\mathcal{M}_1$ once $\mathcal{M}_2$ is proposed, and the criterion weighs the gain against the cost. What the example does not supply is the proposal of $\mathcal{M}_2$, which here is made by the analyst who knows to look for periodicity. In the setting of the main text that is the part of the process that optimization within the family does not itself explain. A system that searched over candidate structures could make such proposals, at the price of presupposing the space it searches.
+
+\chapter{A Small Dynamical Model of Entrapment}
+
+Consider the overdamped dynamics $dx=-V'(x)\,dt+\sigma\,dW_t$ with the symmetric double-well potential $V(x)=\tfrac14x^4-\tfrac12x^2$. The minima lie at $x=\pm1$, where $V=-\tfrac14$, and the barrier between them is at $x=0$, where $V=0$, so that $\Delta V=\tfrac14$. For small $\sigma$ the mean time to cross from one well to the other is of order $\exp(2\Delta V/\sigma^2)=\exp(1/(2\sigma^2))$, by Kramers' estimate, with a prefactor depending on the curvatures at the minimum and the barrier.
+
+Suppose now that one well, say $x=-1$, corresponds to an interpretation that is adequate only on a protected domain, and the other to an interpretation adequate on the wider domain that matters for viability. The potential $V$ records the stability of each state and not its adequacy, and the two are logically independent, which is the point of Chapter~10. To model reduced exposure, let the effective noise decline with the residence time $\tau$ spent in the protected well, measured from entry and reset on crossing, taking $\sigma_\tau=\sigma_0/(1+\kappa\tau)$ for a constant $\kappa>0$. This is a schedule that depends on history through residence, and it does not yet make exposure the outcome of what the organism does, which a fully coupled model would require. For a system that starts in the protected well and has not yet crossed, $\tau=t$, so the schedule coincides with $\sigma_t=\sigma_0/(1+\kappa t)$. Assume, as an explicit simplifying condition, that the instantaneous crossing rate is $\Gamma_t=C\exp(-2\Delta V/\sigma_t^2)$ for a constant prefactor $C$. Under this stipulated hazard model the probability of at least one crossing is exactly $1-\exp\!\left(-\int_0^\infty\Gamma_t\,dt\right)$, and the integrated hazard is bounded by
+\[
+\int_0^\infty \Gamma_t\,dt=C\int_0^\infty\exp\!\left(-\frac{2\Delta V(1+\kappa t)^2}{\sigma_0^2}\right)dt\le \frac{C\sigma_0^2}{4\Delta V\kappa}\,\exp\!\left(-\frac{2\Delta V}{\sigma_0^2}\right).
+\]
+The bound follows from substituting $u=1+\kappa t$ and using $u\ge1$ on the range of integration. A finite integrated hazard establishes a positive probability of never crossing, and the bound is small when $\sigma_0^2$ is small relative to $2\Delta V$, so that under these assumptions a system that begins in the protected well has a small probability of ever leaving it, however long it runs. A comparison system with constant noise $\sigma_0$ has crossing rate $C\exp(-2\Delta V/\sigma_0^2)$ at every time and therefore crosses with probability one in the long run. The first system is entrapped and the second is flexible, and the difference arises from the dependence of exposure on residence and not from the potential.
+
+The model is an illustration of the stated assumptions. It shows that persistence can be produced by a decline in exposure with residence and that the resulting stability carries no information about adequacy. It does not show that any organism behaves in this way, and it makes no claim about which interpretation is correct.
